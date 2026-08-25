@@ -115,20 +115,54 @@ for (const ref of Object.keys(cells)) {
 function parseEvent(text) {
   const lines = text.split(/\r?\n/).map((l) => l.trim()).filter((l) => l.length);
   if (!lines.length) return null;
+
   let name = '';
   let venue = '';
-  let artists = '';
+  const artistParts = [];
+  // 'name' → still collecting the event name (before we hit Venue:/Artists:)
+  // 'post-venue' → we've captured Venue; unlabeled lines afterwards are ignored
+  //               (this is what keeps stray "Restroom Artists:" blocks from
+  //                being glued onto the venue string)
+  // 'artists' → currently inside an artists block; unlabeled lines continue it
   let mode = 'name';
+
+  // Matches "Venue: X" — venue must be the whole line (single-line convention).
+  const venueRe = /^venue\s*[:\-–]\s*(.*)$/i;
+  // Matches any artist-section header, even when prefixed with a room/label:
+  //   "Artists: …"       "Line-up: …"       "Featuring: …"
+  //   "Main Room Artists: …"    "Shelter Artists (Main Room): …"
+  const artistsRe =
+    /(?:^|\b)(?:artists?|line\s*-?\s*up|lineup|featuring)\b[^:\-–\n]{0,40}[:\-–]\s*(.*)$/i;
+
   for (const line of lines) {
-    const venueM = line.match(/^venue\s*[:\-–]\s*(.*)$/i);
-    const artistsM = line.match(/^(?:artists?|line\s*-?\s*up|lineup|featuring)\s*[:\-–]\s*(.*)$/i);
-    if (venueM) { venue = venueM[1].trim(); mode = 'venue'; continue; }
-    if (artistsM) { artists = artistsM[1].trim(); mode = 'artists'; continue; }
-    if (mode === 'name') name = name ? `${name} ${line}` : line;
-    else if (mode === 'venue') venue = venue ? `${venue} ${line}` : line;
-    else if (mode === 'artists') artists = artists ? `${artists} ${line}` : line;
+    const venueM = line.match(venueRe);
+    if (venueM) {
+      venue = venueM[1].trim();
+      mode = 'post-venue';
+      continue;
+    }
+    const artistsM = line.match(artistsRe);
+    if (artistsM) {
+      artistParts.push(artistsM[1].trim());
+      mode = 'artists';
+      continue;
+    }
+    if (mode === 'name') {
+      name = name ? `${name} ${line}` : line;
+    } else if (mode === 'artists') {
+      // continuation of the current artists block
+      if (artistParts.length) {
+        artistParts[artistParts.length - 1] = `${artistParts[artistParts.length - 1]} ${line}`;
+      } else {
+        artistParts.push(line);
+      }
+    }
+    // mode === 'post-venue' with an unlabeled line → drop it (avoids venue pollution)
   }
-  name = name.trim(); venue = venue.trim(); artists = artists.trim();
+
+  name = name.trim();
+  venue = venue.trim();
+  const artists = artistParts.map((a) => a.trim()).filter(Boolean).join('; ');
   if (!name && !venue && !artists) return null;
   return { name, venue, artists };
 }

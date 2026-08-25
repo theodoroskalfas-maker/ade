@@ -19,6 +19,13 @@ export default function Client({ parties }: Props) {
   const [showAdd, setShowAdd] = useState(false);
   const { isFav, toggle, count: favCount } = useFavorites();
 
+  // Clicking a venue/artist on any card sets the search bar to that term.
+  // Scroll to the top so the header + updated query are visible.
+  function applyFilter(query: string) {
+    setQ(query);
+    if (typeof window !== 'undefined') window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
   const qTrimmed = q.trim().toLowerCase();
   const searching = qTrimmed.length > 0;
 
@@ -195,7 +202,7 @@ export default function Client({ parties }: Props) {
                 <ul className="grid gap-3">
                   {g.list.map((p) => (
                     <li key={p.id}>
-                      <PartyCard party={p} isFav={isFav(p.id)} onToggleFav={toggle} />
+                      <PartyCard party={p} isFav={isFav(p.id)} onToggleFav={toggle} onFilter={applyFilter} />
                     </li>
                   ))}
                 </ul>
@@ -206,7 +213,7 @@ export default function Client({ parties }: Props) {
           <ul className="grid gap-3">
             {groups[0]!.list.map((p) => (
               <li key={p.id}>
-                <PartyCard party={p} isFav={isFav(p.id)} onToggleFav={toggle} />
+                <PartyCard party={p} isFav={isFav(p.id)} onToggleFav={toggle} onFilter={applyFilter} />
               </li>
             ))}
           </ul>
