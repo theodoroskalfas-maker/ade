@@ -51,7 +51,18 @@ export default function PartyCard({ party, isFav, onToggleFav }: Props) {
       {party.venue && (
         <p className="mt-1 text-sm text-muted">
           <span className="text-muted/70">📍 </span>
-          {party.venue}
+          {isMappable(party.venue) ? (
+            <a
+              href={mapUrl(party.venue)}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline decoration-muted/40 decoration-dotted underline-offset-4 hover:text-white hover:decoration-white/60"
+            >
+              {party.venue}
+            </a>
+          ) : (
+            party.venue
+          )}
         </p>
       )}
 
@@ -63,7 +74,7 @@ export default function PartyCard({ party, isFav, onToggleFav }: Props) {
       )}
 
       {party.ticketUrl && (
-        <div className="mt-3">
+        <div className="mt-3 flex flex-wrap gap-2">
           <a
             href={party.ticketUrl}
             target="_blank"
@@ -73,8 +84,34 @@ export default function PartyCard({ party, isFav, onToggleFav }: Props) {
             <span>Tickets & info</span>
             <span aria-hidden>↗</span>
           </a>
+          {party.venue && isMappable(party.venue) && (
+            <a
+              href={mapUrl(party.venue)}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 rounded-lg border border-line bg-panel2 px-3 py-1.5 text-xs font-semibold text-white/90 active:scale-95"
+            >
+              <span>Map</span>
+              <span aria-hidden>↗</span>
+            </a>
+          )}
         </div>
       )}
     </article>
   );
+}
+
+// All parties are in Amsterdam — append it to the query for a cleaner Maps hit.
+function mapUrl(venue: string): string {
+  const q = encodeURIComponent(`${venue} Amsterdam`);
+  return `https://www.google.com/maps/search/?api=1&query=${q}`;
+}
+
+// Skip pseudo-venues we don't want to send to Maps.
+function isMappable(venue: string): boolean {
+  const v = venue.trim().toLowerCase();
+  if (!v) return false;
+  if (v === 'tba' || v === 'tbd' || v.startsWith('tba ') || v.endsWith(' tba')) return false;
+  if (v.startsWith('on a boat') || v.startsWith('secret')) return false;
+  return true;
 }
