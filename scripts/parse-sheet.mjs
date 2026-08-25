@@ -4,6 +4,15 @@
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
+import { createHash } from 'node:crypto';
+
+// Content-hashed id so a sheet insertion doesn't shift every downstream party's
+// id — that would silently invalidate users' saved favorites (stored by id
+// in localStorage). Same (day, name, venue) always yields the same id.
+function stableId(day, name, venue) {
+  const h = createHash('sha1').update(`${day}::${name}::${venue || ''}`).digest('hex').slice(0, 10);
+  return `s_${h}`;
+}
 
 const ROOT = resolve(process.argv[2] ?? 'ade_unzipped');
 const OUT = process.argv[3] ?? 'data/seed.json';
@@ -168,7 +177,6 @@ function parseEvent(text) {
 }
 
 const parties = [];
-let idCounter = 1;
 for (let row = 3; row <= maxRow; row++) {
   for (const { col, key, label } of DAYS) {
     const ref = `${col}${row}`;
@@ -177,7 +185,7 @@ for (let row = 3; row <= maxRow; row++) {
     const ev = parseEvent(cell.v);
     if (!ev || !ev.name) continue;
     parties.push({
-      id: `s${idCounter++}`,
+      id: stableId(key, ev.name, ev.venue),
       day: key,
       dayLabel: label,
       name: ev.name,
@@ -190,9 +198,30 @@ for (let row = 3; row <= maxRow; row++) {
   }
 }
 
-writeFileSync(OUT, JSON.stringify(parties, null, 2));
+// Dedupe by id: if two rows collapse onto the same stable id (usually the
+// sheet has a genuine duplicate), keep the entry with the most information.
+// "Score" = artists filled + ticketUrl filled + free flag + venue length.
+function score(p) {
+  return (p.artists ? 2 : 0) + (p.ticketUrl ? 1 : 0) + (p.free ? 0 : 0) + (p.venue?.length ?? 0);
+}
+const byId = new Map();
+let collisions = 0;
+for (const p of parties) {
+  const existing = byId.get(p.id);
+  if (!existing) {
+    byId.set(p.id, p);
+  } else {
+    collisions++;
+    if (score(p) > score(existing)) byId.set(p.id, p);
+  }
+}
+const deduped = [...byId.values()];
+
+writeFileSync(OUT, JSON.stringify(deduped, null, 2));
 console.error(
-  `wrote ${OUT}: ${parties.length} parties, ${parties.filter((p) => p.free).length} free, ${
-    parties.filter((p) => p.ticketUrl).length
+  `wrote ${OUT}: ${deduped.length} parties (${collisions} duplicate${
+    collisions === 1 ? '' : 's'
+  } merged), ${deduped.filter((p) => p.free).length} free, ${
+    deduped.filter((p) => p.ticketUrl).length
   } with ticket URLs`
 );

@@ -19,8 +19,22 @@ Open http://localhost:3000. User-added parties land in `.data/user-parties.json`
 
 ## Update the party seed
 
-The 371-party seed lives in `data/seed.json`, parsed from the source Google Sheet.
-If the sheet changes and you want to re-pull:
+The party seed lives in `data/seed.json`, parsed from the source Google Sheet.
+
+**Automatic refresh (recommended)**: a GitHub Actions cron job
+(`.github/workflows/refresh-sheet.yml`) re-fetches the sheet every Monday and
+Thursday at 07:00 UTC, re-runs the parser, and commits `data/seed.json` back to
+`main` **only if it actually changed**. That commit triggers a Vercel redeploy,
+so new parties are live automatically within a few minutes.
+
+You can also fire the workflow manually: repo → **Actions** tab →
+"Refresh ADE party seed" → **Run workflow**.
+
+Party ids are content-hashed (`s_<sha1_of_day_name_venue>`), so a new party
+appearing mid-sheet does **not** shift the ids of neighboring parties — users'
+saved favorites (which reference ids) survive every refresh.
+
+**Manual re-pull**, if you ever want to do it yourself:
 
 ```bash
 # 1. Re-download the sheet as xlsx

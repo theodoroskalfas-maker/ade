@@ -1,0 +1,75 @@
+name: Refresh ADE party seed
+
+# Re-fetches the source Google Sheet, re-runs the parser, and — if data/seed.json
+# actually changed — commits it. The commit triggers Vercel's git integration
+# which redeploys the site automatically. Free, no other infra needed.
+
+on:
+  schedule:
+    # Every Monday and Thursday at 07:00 UTC (~9am Amsterdam time).
+    # Twice a week feels right for "new parties trickle in" cadence.
+    - cron: '0 7 * * 1,4'
+  # Also allow manual runs from the Actions tab (useful right after a source-sheet edit).
+  workflow_dispatch: {}
+
+# The bot needs push access to commit the updated seed back to main.
+permissions:
+  contents: write
+
+env:
+  SHEET_ID: 1VgteewHpqzfM-S0xRvteGV-hwH6rUyrj7zZ3VGvK_jk
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Download source sheet as XLSX
+        run: |
+          curl -sSL --fail --retry 3 --retry-delay 5 \
+            "https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=xlsx" \
+            -o ade.xlsx
+          test -s ade.xlsx
+          echo "Downloaded $(stat -c%s ade.xlsx) bytes."
+
+      - name: Unzip XLSX
+        run: |
+          mkdir -p ade_unzipped
+          unzip -oq ade.xlsx -d ade_unzipped
+
+      - name: Re-parse into data/seed.json
+        run: node scripts/parse-sheet.mjs ade_unzipped data/seed.json
+
+      - name: Detect changes
+        id: diff
+        run: |
+          if git diff --quiet -- data/seed.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes in the party list — nothing to commit."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            before=$(git show HEAD:data/seed.json | node -e "let d=''; process.stdin.on('data',c=>d+=c); process.stdin.on('end',()=>console.log(JSON.parse(d).length))")
+            after=$(node -e "console.log(require('./data/seed.json').length)")
+            echo "before=$before" >> "$GITHUB_OUTPUT"
+            echo "after=$after"  >> "$GITHUB_OUTPUT"
+            echo "Party count: $before → $after"
+          fi
+
+      - name: Clean up scratch artefacts (not committed anyway, but tidy)
+        run: rm -rf ade.xlsx ade_unzipped
+
+      - name: Commit and push
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "ade-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/seed.json
+          git commit -m "chore: refresh party seed from source sheet (${{ steps.diff.outputs.before }} → ${{ steps.diff.outputs.after }})"
+          git push
