@@ -357,7 +357,7 @@
     "dayLabel": "Wed 21",
     "name": "GASHOUDER presents: Armin van Buuren & Benwal (SOLD OUT)",
     "venue": "Gashouder",
-    "artists": "Armin van Buuren, Benwal, Idemi, Olive Anguz",
+    "artists": "Armin van Buuren, Benwal, Idemi, Olive Anguz Genre: Trance",
     "ticketUrl": "https://tickets.gashouder.nl/event/event-1-ade-3ubeib",
     "free": false,
     "source": "sheet"
@@ -423,7 +423,7 @@
     "dayLabel": "Thu 22",
     "name": "Madam invites: PIV",
     "venue": "Madam (duhh!)",
-    "artists": "Dan Shake, Demi Riquisimo, Ella Knight, Ian Pooley, + more TBA",
+    "artists": "Dan Shake, Demi Riquisimo, Ella Knight, Ian Pooley, + more TBA Gnere: House",
     "ticketUrl": "https://site.fourvenues.com/en/madam/events/madam-invites-piv-ade-22-10-2026-4CCS",
     "free": false,
     "source": "sheet"
@@ -489,7 +489,7 @@
     "dayLabel": "Fri 23",
     "name": "Dave Clarke Presents: 30 Years of ADE",
     "venue": "Melkweg",
-    "artists": "Ash Code (Live), Brutuzz,  Daniel Avery b2b Richard Fearless , Dasha Rush Dave Clarke, Dirk Wiertz (Live),  DJ Godfather b2b Von Di,  DJ Hell, DJ Stingray 313 b2b Mell G, Egyptian Lover, L.F.T. (Live), Lizz V, Luke Slater b2b Rene Wise, Nastia Reigel, Parrish Smith,  Risa Taniguchi, Rosa Damask (Live), Veronica Vasicka, & Cinema Program",
+    "artists": "Ash Code (Live), Brutuzz,  Daniel Avery b2b Richard Fearless , Dasha Rush Dave Clarke, Dirk Wiertz (Live),  DJ Godfather b2b Von Di,  DJ Hell, DJ Stingray 313 b2b Mell G, Egyptian Lover, L.F.T. (Live), Lizz V, Luke Slater b2b Rene Wise, Nastia Reigel, Parrish Smith,  Risa Taniguchi, Rosa Damask (Live), Veronica Vasicka, & Cinema Program Genres: Techno, Electro",
     "ticketUrl": "https://www.melkweg.nl/nl/agenda/dave-clarke-presents-30-years-of-ade/",
     "free": false,
     "source": "sheet"
@@ -533,7 +533,7 @@
     "dayLabel": "Thu 22",
     "name": "PIV",
     "venue": "Shelter",
-    "artists": "Anil Aras, Cinthie, Daughter in Law, Julian Anthony, PIEM, Ryan Ellitott, SDK",
+    "artists": "Anil Aras, Cinthie, Daughter in Law, Julian Anthony, PIEM, Ryan Ellitott, SDK Genre: House",
     "ticketUrl": "https://www.shelteramsterdam.nl/ade/",
     "free": false,
     "source": "sheet"
@@ -555,7 +555,7 @@
     "dayLabel": "Sat 24",
     "name": "GASHOUDER presents: Flow by Franky Rizardo (SOLD OUT)",
     "venue": "Gashouder",
-    "artists": "Franky Rizardo, AAT (NL), Cloonee, Easttown, Grace Arribas, Mason Collective",
+    "artists": "Franky Rizardo, AAT (NL), Cloonee, Easttown, Grace Arribas, Mason Collective Genre: House, Tech-house",
     "ticketUrl": "https://gashouder.nl/franky-rizardo-flow-pre-registration",
     "free": false,
     "source": "sheet"
@@ -599,7 +599,7 @@
     "dayLabel": "Fri 23",
     "name": "GASHOUDER presents: Mochakk CALLING 📞🎶",
     "venue": "Gashouder",
-    "artists": "ISAbella, Juliana X, Mochakk, MPH (1) , Solarce Brothers",
+    "artists": "ISAbella, Juliana X, Mochakk, MPH (1) , Solarce Brothers Genres: House, Tech-house",
     "ticketUrl": "https://tickets.gashouder.nl/event/mochakk-calling-qjcvs9",
     "free": false,
     "source": "sheet"
@@ -610,7 +610,7 @@
     "dayLabel": "Sat 24",
     "name": "Madam invites: Detroit Love ADE 💛🙌🏾🧡",
     "venue": "Madam (duhhh!)",
-    "artists": "Carl Craig b2b Matthew Dear, Kyle Hall, Idriss D",
+    "artists": "Carl Craig b2b Matthew Dear, Kyle Hall, Idriss D Genre: Techno, House",
     "ticketUrl": "https://site.fourvenues.com/en/madam/events/madam-invites-detroit-love-ade-24-10-2026-LPY7",
     "free": false,
     "source": "sheet"
@@ -1078,10 +1078,10 @@
     "source": "sheet"
   },
   {
-    "id": "s_8058ecb7ee",
+    "id": "s_b31f2a0e87",
     "day": "fri",
     "dayLabel": "Fri 23",
-    "name": "Club.Record",
+    "name": "Club.Record (SOLD OUT)",
     "venue": "The Loft",
     "artists": "Chlose Caillet b2b Ryan Elliott, D Stone & Naomi",
     "ticketUrl": "https://site.fourvenues.com/en/the-loft/events/clubrecord-23-10-2026-Q6MH/preregister",
@@ -1094,7 +1094,7 @@
     "dayLabel": "Sat 24",
     "name": "Mystic Garden & Dockyard Festival (a 2-in-1 fest)",
     "venue": "Havenpark",
-    "artists": "BLANKA, Dax J, DJ Heartstring, Fiene,  Helena Lauwaert,  HI-LO, Oscar Mulero, Partiboi69, Planetary Assault Systems (live), Supergloss, Yanamaste, and many more",
+    "artists": "BLANKA, Dax J, DJ Heartstring, Fiene,  Helena Lauwaert,  HI-LO, Oscar Mulero, Partiboi69, Planetary Assault Systems (live), Supergloss, Yanamaste, and many more Genres: House, Techno, Electro, Ghetto House, Trance",
     "ticketUrl": "https://www.mysticgardenfestival.nl/ade/",
     "free": false,
     "source": "sheet"
@@ -1182,7 +1182,7 @@
     "dayLabel": "Thu 22",
     "name": "Intercell x 999999999 Invites | ADE By Night",
     "venue": "H7 Warehouse",
-    "artists": "999999999 [old school set], DJ Hyperdrive b2b Supergloss, SAMOH [live] & Yasmin Regisford",
+    "artists": "999999999 [old school set], DJ Hyperdrive b2b Supergloss, SAMOH [live] & Yasmin Regisford Genre: Techno",
     "ticketUrl": "https://www.intercell.events/events/intercell-x-999999999-invites-ade-by-night",
     "free": false,
     "source": "sheet"
@@ -1336,7 +1336,7 @@
     "dayLabel": "Wed 21",
     "name": "Laster Presents Klockworks 20 Years",
     "venue": "Tillatec",
-    "artists": "Ben Klock, DVS1, Laia, Roll Dann, Setaoc Mass, The Lady Machine",
+    "artists": "Ben Klock, DVS1, Laia, Roll Dann, Setaoc Mass, The Lady Machine Genre: Techno",
     "ticketUrl": "https://ra.co/events/2475664",
     "free": false,
     "source": "sheet"
@@ -1347,7 +1347,7 @@
     "dayLabel": "Thu 22",
     "name": "Glitterbox ADE",
     "venue": "Thuishaven",
-    "artists": "Bridge (NY), Carl Craig, Eliza Rose, Ella Knight, HoneyLuv, Horse Meat Disco Laura Meester, Makéz, Melvo Baptist, The Shapeshifters, & Tonno Disko",
+    "artists": "Bridge (NY), Carl Craig, Eliza Rose, Ella Knight, HoneyLuv, Horse Meat Disco Laura Meester, Makéz, Melvo Baptist, The Shapeshifters, & Tonno Disko Genre: House, Disco",
     "ticketUrl": "https://ra.co/events/2475062",
     "free": false,
     "source": "sheet"
@@ -1622,7 +1622,7 @@
     "dayLabel": "Thu 22",
     "name": "Drumcode ADE 2026 (Awakenings)",
     "venue": "Sugarfactory",
-    "artists": "Adam Beyer, Enrico Sangiuliano & Ilario Alicante, Kaufmann, Kevin de Vries & Konstantin Sibold, and Victor Ruiz",
+    "artists": "Adam Beyer, Enrico Sangiuliano & Ilario Alicante, Kaufmann, Kevin de Vries & Konstantin Sibold, and Victor Ruiz Genre: Techno",
     "ticketUrl": "https://www.awakenings.com/en/events/2026/10/drumcode/397113/",
     "free": false,
     "source": "sheet"
@@ -1875,7 +1875,7 @@
     "dayLabel": "Sun 25",
     "name": "Interplanetary Criminal ADE",
     "venue": "Bajes",
-    "artists": "Interplanetary Criminal + support TBA",
+    "artists": "Interplanetary Criminal + support TBA Genres: UK Garage",
     "ticketUrl": "https://www.artistsforpresident.com/interplanetary-criminal-ade-amsterdam",
     "free": false,
     "source": "sheet"
@@ -2007,7 +2007,7 @@
     "dayLabel": "Thu 22",
     "name": "SLPFNK x Sweely invites",
     "venue": "Blast Galaxy",
-    "artists": "TBA",
+    "artists": "Aline Brooklyn b2b KROL, Sweely, The Ghost, Yass & Mali",
     "ticketUrl": "https://shop.celebratix.io/?eventId=e_wuxvd&c=2hfkm&cep=cr_msrmz582",
     "free": false,
     "source": "sheet"
@@ -2062,7 +2062,7 @@
     "dayLabel": "Thu 22",
     "name": "SLPFNK x Other Side",
     "venue": "The Other Side",
-    "artists": "TBA",
+    "artists": "Beste Hira (House Set), Idilay, Kyra Khaldi b2b Patrizo Scope, Loradeniz b2b Tommy Chikara, SNPLO (DJ SPENCE & PLO MAN), Tafkamp b2b Samuel Deep b3b Kenji Hina",
     "ticketUrl": "https://shop.celebratix.io/?eventId=e_3ve87&c=2hfkm&cep=cr_msrmz582",
     "free": false,
     "source": "sheet"
@@ -2084,7 +2084,7 @@
     "dayLabel": "Sat 24",
     "name": "Joris Voorn presents Trip To Galaxy ADE 2026 (Awakenings)",
     "venue": "Sugarfactory",
-    "artists": "Beste Hira & Grace Dahl, BIANKA, Blasha & Allatt, Jeff Mills, Joris Voorn",
+    "artists": "Beste Hira & Grace Dahl, BIANKA, Blasha & Allatt, Jeff Mills, Joris Voorn Genre: Techno, Tech-House",
     "ticketUrl": "https://www.awakenings.com/en/events/2026/10/joris-voorn-a-trip-to-galaxy/397200/",
     "free": false,
     "source": "sheet"
@@ -2392,7 +2392,7 @@
     "dayLabel": "Thu 22",
     "name": "Monstercat x Ophelia",
     "venue": "Melkweg",
-    "artists": "[IVY] , Anton Invicta,  DJ Mii, Fairlane,  Gammer,  Going Quantum, Kompany,  ????? , Muzz, NGHTMRE, Oliverse, PIRAPUS, Seven Lions, Tape B, Trivecta",
+    "artists": "[IVY] , Anton Invicta,  DJ Mii, Fairlane,  Gammer,  Going Quantum, Kompany,  ????? , Muzz, NGHTMRE, Oliverse, PIRAPUS, Seven Lions, Tape B, Trivecta Genre: Dubstep, Bass Music",
     "ticketUrl": "https://www.melkweg.nl/en/agenda/monstercat-x-ophelia-22-10-2026/",
     "free": false,
     "source": "sheet"
@@ -2414,7 +2414,7 @@
     "dayLabel": "Sat 24",
     "name": "ZAZU presents: SOLÈY by Francis Mercier",
     "venue": "AFAS Live",
-    "artists": "Da Capo b2b Enoo Napa, Francis Mercier, JUNO (DE) b2b Unfazed, Nitefreak b2b Bun Xapa, Samm (BE) b2b AJNA, Van Zand b2b DJ BREYTH, Afrojack (special guest) & more TBA",
+    "artists": "Da Capo b2b Enoo Napa, Francis Mercier, JUNO (DE) b2b Unfazed, Nitefreak b2b Bun Xapa, Samm (BE) b2b AJNA, Van Zand b2b DJ BREYTH, Afrojack (special guest) & more TBA Genre: Afro-house",
     "ticketUrl": "https://shop.weeztix.com/a1cd3d83-efa6-11f0-a9cb-7e126431635e/tickets?shop_code=qqja3dqq&original_referer=https%3A%2F%2Fdashboard.weeztix.com%2F&event=a33b2c42-0b8c-4c6a-af44-6ee53c3a0f7b",
     "free": false,
     "source": "sheet"
@@ -2425,7 +2425,7 @@
     "dayLabel": "Sun 25",
     "name": "FTSM ADE Takeover",
     "venue": "Skatecafe",
-    "artists": "Blasha & Allat (house set), Call Super b2b Ryan Elliot, DJ MAsda, Eris Drew, Hannecart, Helena Hauff b2b Quest, mad miran, Rey Colino",
+    "artists": "Blasha & Allat (house set), Call Super b2b Ryan Elliot, DJ MAsda, Eris Drew, Hannecart, Helena Hauff b2b Quest, mad miran, Rey Colino Genres: House, Electro, Breakbeats, Techno",
     "ticketUrl": "https://www.fstm.nl/",
     "free": false,
     "source": "sheet"
@@ -2541,6 +2541,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_830f17beba",
+    "day": "wed",
+    "dayLabel": "Wed 21",
+    "name": "PHAT TRAX & Bar Shaffy present: Amsterdam Takeover (FREE w/ RSVP)",
+    "venue": "Bar Shaffy",
+    "artists": "Poolhaus, Mixolydian, Beni Hana, Remmert, Lunett, Shek",
+    "ticketUrl": "https://ra.co/events/2520331",
+    "free": true,
+    "source": "sheet"
+  },
+  {
     "id": "s_579c950f95",
     "day": "thu",
     "dayLabel": "Thu 22",
@@ -2585,6 +2596,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_52b60f1cd9",
+    "day": "wed",
+    "dayLabel": "Wed 21",
+    "name": "Showcase Kokolores",
+    "venue": "Grand Cafe Heineken Hoek",
+    "artists": "Alain Hellion, Black Legend,  Charlie Brown, Claudius, Dirk Schot, Falko Niestolik, Flaroll, heSAWyou, Joaquin Phunk, John Solution, Liah Barrett, Maex, Marco Melissen, You Mann",
+    "ticketUrl": "https://ra.co/events/2520164",
+    "free": true,
+    "source": "sheet"
+  },
+  {
     "id": "s_3da2606d67",
     "day": "thu",
     "dayLabel": "Thu 22",
@@ -2612,7 +2634,7 @@
     "dayLabel": "Sat 24",
     "name": "CamelPhat pres. Experience x Loveland",
     "venue": "Theater Amsterdam",
-    "artists": "CamelPhat, Hot Since 82, Max Styler, Niiomi, Patrick Topping, Volkodor",
+    "artists": "CamelPhat, Hot Since 82, Max Styler, Niiomi, Patrick Topping, Volkodor Genre: Tech-house",
     "ticketUrl": "https://loveland.nl/ade/camelphat/pre-register/",
     "free": false,
     "source": "sheet"
@@ -2645,7 +2667,7 @@
     "dayLabel": "Fri 23",
     "name": "Rampage",
     "venue": "Melkweg",
-    "artists": "Zomboy, Mefjus, Arcando, FMS, Layz, Murdock, Elle Rich, Odilia",
+    "artists": "Zomboy, Mefjus, Arcando, FMS, Layz, Murdock, Elle Rich, Odilia Genre: Dubstep, Bass",
     "ticketUrl": "https://www.ticketmaster.nl/event/1223386527?CL_ORIGIN=ORIGIN3&brand=nl_melkweg",
     "free": false,
     "source": "sheet"
@@ -2695,12 +2717,12 @@
     "source": "sheet"
   },
   {
-    "id": "s_8bc712c7bf",
+    "id": "s_100918ce10",
     "day": "sat",
     "dayLabel": "Sat 24",
-    "name": "SLPFNK x Klaproos",
+    "name": "SLPFNK x Klaproos (Yokaku)",
     "venue": "Klaproos",
-    "artists": "TBA",
+    "artists": "DJ Senc, Mari.TE b2b Magda, Moopie, Nathalie Seres, Tomokitamura, Zeina",
     "ticketUrl": "https://shop.celebratix.io/?eventId=e_qbmnh&c=2hfkm&cep=cr_msrmz582",
     "free": false,
     "source": "sheet"
@@ -2783,12 +2805,12 @@
     "source": "sheet"
   },
   {
-    "id": "s_7014597c3b",
+    "id": "s_55082c7f44",
     "day": "sat",
     "dayLabel": "Sat 24",
-    "name": "SLPFNK x Levenslang",
+    "name": "SLPFNK",
     "venue": "Levenslang",
-    "artists": null,
+    "artists": "Dyed Soundorom, Doudou MD, Sonja Moonear, Volkan Akin Genre: House, Minimal Techno",
     "ticketUrl": "https://shop.celebratix.io/?eventId=e_gaz6w&c=2hfkm&cep=cr_msrmz582",
     "free": false,
     "source": "sheet"
@@ -2838,6 +2860,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_9a26eaa4a3",
+    "day": "sun",
+    "dayLabel": "Sun 25",
+    "name": "Afro Live",
+    "venue": "Chicago Social Club",
+    "artists": "Heaven Sam, Don Jordy, more TBA Genres: Afrobeats, Amapiano,",
+    "ticketUrl": "https://chicagosocialclub.nl/tickets/?eventId=e_w4hzd",
+    "free": false,
+    "source": "sheet"
+  },
+  {
     "id": "s_d945e2728c",
     "day": "thu",
     "dayLabel": "Thu 22",
@@ -2871,6 +2904,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_bcdd577106",
+    "day": "sun",
+    "dayLabel": "Sun 25",
+    "name": "SLPFNK x TBA",
+    "venue": "TBA",
+    "artists": "TBA",
+    "ticketUrl": "https://shop.celebratix.io/?c=2hfkm&eventId=e_nmyfr",
+    "free": false,
+    "source": "sheet"
+  },
+  {
     "id": "s_4581e6713f",
     "day": "thu",
     "dayLabel": "Thu 22",
@@ -2887,7 +2931,7 @@
     "dayLabel": "Fri 23",
     "name": "PIV ADE",
     "venue": "Ijland",
-    "artists": "Benny Rodrigues, bullet tooth, Caleb Jackson, Dolore, Kepler, Kim April, Klaudie, Midas Field, Prunk, Retrouve",
+    "artists": "Benny Rodrigues, bullet tooth, Caleb Jackson, Dolore, Kepler, Kim April, Klaudie, Midas Field, Prunk, Retrouve Genre: House",
     "ticketUrl": "https://shop.celebratix.io/?c=2ks67",
     "free": false,
     "source": "sheet"
@@ -2900,6 +2944,17 @@
     "venue": "Pllek",
     "artists": "Club Angel (AU), CVNTS (NL), Entasia, Inafekt,  Kyle Starkey (GB), Newtone (NL),  Olive Anguz (NL)",
     "ticketUrl": "https://shop.celebratix.io/?c=a2tkw&eventId=e_h23es",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_544c569eff",
+    "day": "sun",
+    "dayLabel": "Sun 25",
+    "name": "Giegling at Klaproos",
+    "venue": "Klaproos",
+    "artists": "map.ache (live), leafar legov (live), edward (live), thomas melchior (live), lawrence (live), cassy, konstantin, yamour, cosmo, dj dustin, tau car, otto, alexia, ust 1, mimi, elli",
+    "ticketUrl": "https://shop.fullhouse.tech/event/giegling-klaproos-94kkvz",
     "free": false,
     "source": "sheet"
   },
@@ -3415,7 +3470,7 @@
     "dayLabel": "Fri 23",
     "name": "MANO LE TOUGH PRESENTS MAEVE",
     "venue": "Bret",
-    "artists": "Mano Le Tough, and friends TBA",
+    "artists": "Mano Le Tough, Cassy b2b Carlos Valdes, Luke Alessi, The Drifter",
     "ticketUrl": "https://www.bret.bar/ticketshop/e_9pgfe",
     "free": false,
     "source": "sheet"
@@ -3602,7 +3657,7 @@
     "dayLabel": "Thu 22",
     "name": "SLACKER",
     "venue": "Bret",
-    "artists": "GAISER (LIVE), MARC HOULE (LIVE), OLIVE F, RIO TASHAN B2B SINDICATO DEL BAILE, SETH TROXLER B2B TIGA, TOM TRAGO",
+    "artists": "GAISER (LIVE), MARC HOULE (LIVE), OLIVE F, RIO TASHAN B2B SINDICATO DEL BAILE, SETH TROXLER B2B TIGA, TOM TRAGO Genres: House, Tech house, Techno",
     "ticketUrl": "https://shop.celebratix.io/?t=2rkzmd&fbclid=PAdGRleATydNVwZG9mAmZkaWQWUMxADwNpmmzkVcGUyj_YeJTH1DzHsGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_2uVXp-gCtReKOfOoHj3VxQwct_-oxJqWDxgAM6gle2PWHQEfo1j2KgCrMV_aem_iKUU7RyXf6QtKdN2j-IPQw&eventId=e_emutn",
     "free": false,
     "source": "sheet"
@@ -3762,6 +3817,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_fda8d1c05e",
+    "day": "thu",
+    "dayLabel": "Thu 22",
+    "name": "RAUM invites Clone Records",
+    "venue": "Raum",
+    "artists": "Afra, Detroit In Effect, L.F.T., Neel, Neska, Ottagone, Serge, Tau Ceti",
+    "ticketUrl": "https://shop.clubraum.nl/471a491050c14cbc946ce7c17fed844f/",
+    "free": false,
+    "source": "sheet"
+  },
+  {
     "id": "s_9d11f899e1",
     "day": "fri",
     "dayLabel": "Fri 23",
@@ -3784,6 +3850,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_c9ff6f18fb",
+    "day": "thu",
+    "dayLabel": "Thu 22",
+    "name": "Paul Kalkbrenner (LIVE)",
+    "venue": "Theater",
+    "artists": "Paul Kalkbrenner",
+    "ticketUrl": "https://loveland.nl/ade/paul-kalkbrenner-live/pre-register/?fbclid=PAVERFWAT77vNwZG9mAmZkaWQWUNPQqlJj8xhXROFTFLFTs9OX7XjqRGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp-MKadu7Cc-WW3KG24kZaOYMMspBRBZo9faTCE3XEQ3EXWrwqNriR3_bHeil_aem_M3CMuRshdy0FQ_GB0J84Lg",
+    "free": false,
+    "source": "sheet"
+  },
+  {
     "id": "s_73b8bff52c",
     "day": "fri",
     "dayLabel": "Fri 23",
@@ -3802,6 +3879,17 @@
     "venue": "Kaap",
     "artists": "Ben Evers, Echonomist, KENZA KAYATI, Matador, OSFUR, , Rex the Dog, Rodriguez Jr., Stasi Sanlin, Steve BugTom Zeta",
     "ticketUrl": "https://kaapamsterdam.nl/tickets/",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_7d65e96cc3",
+    "day": "thu",
+    "dayLabel": "Thu 22",
+    "name": "Interfering Grounds x Futura Artists",
+    "venue": "Garage Noord",
+    "artists": "upsammy, Rosa, Lena Willikens, Budino, Camille Maria, Crisp Sandwich",
+    "ticketUrl": "https://garagenoord.weticket.io/interfering-grounds-x-futura-artists",
     "free": false,
     "source": "sheet"
   },
@@ -4004,6 +4092,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_c9629b1100",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "DRUMCITY",
+    "venue": "Cafe Brandon",
+    "artists": "Artist Lebo, Stefan Thomas",
+    "ticketUrl": "https://www.instagram.com/p/DcbjNEfDbEE/",
+    "free": true,
+    "source": "sheet"
+  },
+  {
     "id": "s_f76f3c30ae",
     "day": "sat",
     "dayLabel": "Sat 24",
@@ -4011,6 +4110,17 @@
     "venue": "Tillatec",
     "artists": "TBA",
     "ticketUrl": "https://shop.weeztix.com/0e536f93-e4fd-11ee-a9cb-7e126431635e/tickets?event=4777d71d-a031-4d14-9795-96447a625869",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_e4ec75c7c8",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "SLPFNK x Dungeon Funk",
+    "venue": "Shelter",
+    "artists": "DJ Perception, Dungeon Funk (Dungeon Meat b2b Samule Deep), Helly b2b DJ TJIZZA, Larry De Kat b2b Garrett David, Lori",
+    "ticketUrl": "https://site.fourvenues.com/en/shelter-amsterdam/events/slapfunk-23-10-2026-605J",
     "free": false,
     "source": "sheet"
   },
@@ -4026,6 +4136,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_eab5603a91",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "Festifest",
+    "venue": "Het Dorp",
+    "artists": "BELLA (NL), Demi Riquisimo, Evi, Galleria Europa (Fabrizio Mammarella & Giulia Gutterer), SHMLSS, Sound Metaphors Djs",
+    "ticketUrl": "https://sales.ticketing.cm.com/festifestade26/nl-nl/15850458-bc22-4058-bd0c-04d225e7dc04",
+    "free": false,
+    "source": "sheet"
+  },
+  {
     "id": "s_bc99ffebde",
     "day": "sat",
     "dayLabel": "Sat 24",
@@ -4037,6 +4158,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_bd7e3f44ac",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "IPSO by Kölsch",
+    "venue": "Het Sieraad",
+    "artists": "Kolsch, Eelke Kleij, Kotiēr",
+    "ticketUrl": "https://ra.co/events/2521958",
+    "free": false,
+    "source": "sheet"
+  },
+  {
     "id": "s_a849569fff",
     "day": "sat",
     "dayLabel": "Sat 24",
@@ -4044,6 +4176,17 @@
     "venue": "Benelux Bar",
     "artists": "Galecta, Lua, DJ Ray, Mango & Ginger, Juliana X",
     "ticketUrl": "https://ra.co/events/2519529",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_311043d536",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "friends. THE FACE",
+    "venue": "Nido Cocktailbar (120 max capacity)",
+    "artists": "Amber (NL), Marvin Aloys, RIØ (DE), Roxy Nox, YEPIK, Daniele Vecchi, Fabían Mar, Giulia Wahn, Køry, Maurø, Monorøme, J-Savant Genres: House, Tech house",
+    "ticketUrl": "https://www.friends-studios.com/event-details/the-face-ade-amsterdam",
     "free": false,
     "source": "sheet"
   },
@@ -4067,6 +4210,28 @@
     "artists": "Dave Green (NL), Dirk Schot (NL),  DoubleDee (NL),  Janika Tenn (GB), Nicola Nisi (IT), Richard Earnshaw (GB) , Stefan Thomas (NL),  Steve Taylor (GB),  You Mann (NL)",
     "ticketUrl": "https://shop.weeztix.com/1623f8d1-fb6b-11f0-a9cb-7e126431635e/tickets?event=c67f2412-a0e6-45ca-86b3-dadf51285f4e",
     "free": true,
+    "source": "sheet"
+  },
+  {
+    "id": "s_ad5986bf53",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "TIKTAK - House Edition",
+    "venue": "Supper Club",
+    "artists": "Edson César, Maqossa, Sam Blans, Morae",
+    "ticketUrl": "https://feverup.com/m/736733",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_731263fd39",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "PATTA X KEEP HUSH",
+    "venue": "Skatecafe",
+    "artists": "TBA",
+    "ticketUrl": "https://skatecafe.weticket.io/ade-patta-x-keep-hush-1",
+    "free": false,
     "source": "sheet"
   }
 ]
