@@ -200,9 +200,9 @@ export default function Client({ parties }: Props) {
                   {g.day.short} · {g.day.date} · {g.list.length}
                 </h2>
                 <ul className="grid gap-3">
-                  {g.list.map((p) => (
+                  {g.list.map((p, i) => (
                     <li key={p.id}>
-                      <PartyCard party={p} isFav={isFav(p.id)} onToggleFav={toggle} onFilter={applyFilter} />
+                      <PartyCard party={p} index={i + 1} isFav={isFav(p.id)} onToggleFav={toggle} onFilter={applyFilter} />
                     </li>
                   ))}
                 </ul>
@@ -211,14 +211,37 @@ export default function Client({ parties }: Props) {
           </div>
         ) : (
           <ul className="grid gap-3">
-            {groups[0]!.list.map((p) => (
+            {groups[0]!.list.map((p, i) => (
               <li key={p.id}>
-                <PartyCard party={p} isFav={isFav(p.id)} onToggleFav={toggle} onFilter={applyFilter} />
+                <PartyCard party={p} index={i + 1} isFav={isFav(p.id)} onToggleFav={toggle} onFilter={applyFilter} />
               </li>
             ))}
           </ul>
         )}
       </main>
+
+      {/* Footer — totals + attribution */}
+      <footer className="mt-8 border-t border-line px-4 py-6 text-center text-xs text-muted">
+        <p className="tabular-nums">
+          <span className="text-white">{parties.length}</span> parties ·{' '}
+          <span className="text-accent2">{parties.filter((p) => p.free).length}</span> free · 6
+          days
+        </p>
+        <p className="mt-1">
+          Wed 21 · Thu 22 · Fri 23 · Sat 24 · Sun 25 · Mon 26 Oct
+        </p>
+        <p className="mt-3 text-[10px] text-muted/70">
+          Data adapted from a community sheet · Follow{' '}
+          <a
+            href="https://www.instagram.com/reverseskydivingclub"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline decoration-dotted underline-offset-2 hover:text-white"
+          >
+            @reverseskydivingclub
+          </a>
+        </p>
+      </footer>
 
       {showAdd && (
         <AddPartyDialog

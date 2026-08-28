@@ -4,12 +4,13 @@ import type { Party } from '@/lib/types';
 
 type Props = {
   party: Party;
+  index: number; // 1-based position within the current view (day / search / faves)
   isFav: boolean;
   onToggleFav: (id: string) => void;
   onFilter: (query: string) => void;
 };
 
-export default function PartyCard({ party, isFav, onToggleFav, onFilter }: Props) {
+export default function PartyCard({ party, index, isFav, onToggleFav, onFilter }: Props) {
   const artistTokens = party.artists ? tokenizeArtists(party.artists) : [];
 
   return (
@@ -22,7 +23,10 @@ export default function PartyCard({ party, isFav, onToggleFav, onFilter }: Props
       }
     >
       <div className="flex items-start justify-between gap-3">
-        <h3 className="pr-1 text-base font-semibold leading-snug">{party.name}</h3>
+        <h3 className="pr-1 text-base font-semibold leading-snug">
+          <span className="mr-1 text-muted/70 tabular-nums">{index}.</span>
+          {party.name}
+        </h3>
         <div className="flex shrink-0 items-center gap-1.5">
           {party.free && (
             <span className="rounded-full bg-accent2/20 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-accent2">

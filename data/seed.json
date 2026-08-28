@@ -2992,6 +2992,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_b4eaf14e41",
+    "day": "sun",
+    "dayLabel": "Sun 25",
+    "name": "BROWN BAR DANCE EVENT",
+    "venue": "Cafe Westerdok",
+    "artists": "U-BEND, Field Notes DJs",
+    "ticketUrl": "https://ra.co/events/2522463",
+    "free": false,
+    "source": "sheet"
+  },
+  {
     "id": "s_0cc225108a",
     "day": "thu",
     "dayLabel": "Thu 22",
