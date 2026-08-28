@@ -8,6 +8,9 @@ export type Party = {
   venue: string | null;
   artists: string | null;
   ticketUrl: string | null;
+  // Direct TicketSwap resale link when the offline matcher found a confident
+  // sitemap match. When absent, the UI falls back to a TicketSwap search link.
+  ticketswapUrl?: string;
   free: boolean;
   source: 'sheet' | 'user';
   addedAt?: string;

@@ -47,6 +47,15 @@ jobs:
       - name: Re-parse into data/seed.json
         run: node scripts/parse-sheet.mjs ade_unzipped data/seed.json
 
+      - name: Refresh TicketSwap direct links
+        # Reads TicketSwap's public sitemap.xml (robots.txt permits this),
+        # finds ADE 2026 events, and back-fills `ticketswapUrl` on each party
+        # where a confident match exists. Precision-first — no wrong links.
+        # Non-fatal: if TicketSwap is unreachable we still ship the seed
+        # refresh; the UI falls back to a TicketSwap search chip per party.
+        run: node scripts/refresh-ticketswap.mjs data/seed.json
+        continue-on-error: true
+
       - name: Detect changes
         id: diff
         run: |
@@ -71,5 +80,5 @@ jobs:
           git config user.name "ade-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/seed.json
-          git commit -m "chore: refresh party seed from source sheet (${{ steps.diff.outputs.before }} → ${{ steps.diff.outputs.after }})"
+          git commit -m "chore: refresh party seed + ticketswap matches (${{ steps.diff.outputs.before }} → ${{ steps.diff.outputs.after }})"
           git push

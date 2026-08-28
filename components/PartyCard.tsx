@@ -100,13 +100,22 @@ export default function PartyCard({ party, index, isFav, onToggleFav, onFilter }
           </a>
         )}
         <a
-          href={ticketswapUrl(party.name)}
+          href={party.ticketswapUrl ?? ticketswapSearchUrl(party.name)}
           target="_blank"
           rel="noopener noreferrer"
-          title="Search for resale tickets on TicketSwap"
-          className="inline-flex items-center gap-1.5 rounded-lg border border-line bg-panel2 px-3 py-1.5 text-xs font-semibold text-white/90 active:scale-95"
+          title={
+            party.ticketswapUrl
+              ? 'Open this event on TicketSwap (resale)'
+              : 'Search for resale tickets on TicketSwap'
+          }
+          className={
+            'inline-flex items-center gap-1.5 rounded-lg border px-3 py-1.5 text-xs font-semibold active:scale-95 ' +
+            (party.ticketswapUrl
+              ? 'border-accent/60 bg-accent/15 text-white'
+              : 'border-line bg-panel2 text-white/90')
+          }
         >
-          <span>TicketSwap</span>
+          <span>TicketSwap{party.ticketswapUrl ? '' : ' (search)'}</span>
           <span aria-hidden>↗</span>
         </a>
         {party.venue && isMappable(party.venue) && (
@@ -125,12 +134,10 @@ export default function PartyCard({ party, index, isFav, onToggleFav, onFilter }
   );
 }
 
-// Deep-link to TicketSwap's own search page with the party name pre-filled.
-// We deliberately don't scrape or resolve to a specific event ID — that would
-// need a maintained scraper against TicketSwap's anti-bot layer. Their search
-// page handles ambiguity for the user in one extra tap.
-function ticketswapUrl(name: string): string {
-  // Strip trailing parentheticals like "(SOLD OUT)" so the search isn't polluted.
+// Fallback: TicketSwap's own search page with the party name pre-filled.
+// Used only when we couldn't resolve to a direct event URL via the sitemap
+// matcher (see scripts/refresh-ticketswap.mjs).
+function ticketswapSearchUrl(name: string): string {
   const cleaned = name.replace(/\s*\([^)]*\)\s*$/g, '').trim() || name;
   return `https://www.ticketswap.com/search?query=${encodeURIComponent(cleaned)}`;
 }
