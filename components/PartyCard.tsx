@@ -99,6 +99,16 @@ export default function PartyCard({ party, index, isFav, onToggleFav, onFilter }
             <span aria-hidden>↗</span>
           </a>
         )}
+        <a
+          href={ticketswapUrl(party.name)}
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Search for resale tickets on TicketSwap"
+          className="inline-flex items-center gap-1.5 rounded-lg border border-line bg-panel2 px-3 py-1.5 text-xs font-semibold text-white/90 active:scale-95"
+        >
+          <span>TicketSwap</span>
+          <span aria-hidden>↗</span>
+        </a>
         {party.venue && isMappable(party.venue) && (
           <a
             href={mapUrl(party.venue)}
@@ -113,6 +123,16 @@ export default function PartyCard({ party, index, isFav, onToggleFav, onFilter }
       </div>
     </article>
   );
+}
+
+// Deep-link to TicketSwap's own search page with the party name pre-filled.
+// We deliberately don't scrape or resolve to a specific event ID — that would
+// need a maintained scraper against TicketSwap's anti-bot layer. Their search
+// page handles ambiguity for the user in one extra tap.
+function ticketswapUrl(name: string): string {
+  // Strip trailing parentheticals like "(SOLD OUT)" so the search isn't polluted.
+  const cleaned = name.replace(/\s*\([^)]*\)\s*$/g, '').trim() || name;
+  return `https://www.ticketswap.com/search?query=${encodeURIComponent(cleaned)}`;
 }
 
 // All parties are in Amsterdam — append it to the query for a cleaner Maps hit.
