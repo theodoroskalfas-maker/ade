@@ -24,10 +24,10 @@
     "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/ki-ki-amsterdam-ziggo-dome-2026-10-22-CZMxF8nVQA8WSU1aYxW7K"
   },
   {
-    "id": "s_4e03c38ca0",
+    "id": "s_b63c370b48",
     "day": "fri",
     "dayLabel": "Fri 23",
-    "name": "UNREAL BY DAY x CLOUDY",
+    "name": "UNREAL BY DAY x CLOUDY (SOLD OUT)",
     "venue": "AFAS Live",
     "artists": null,
     "ticketUrl": "https://shop.paylogic.com/24bf0785c53e4894b36dde5caa0405f7/unreal-by-day-x-cloudy-official-ticketshop",
@@ -205,7 +205,7 @@
     "dayLabel": "Wed 21",
     "name": "RESONANT X CHOOSE LOVE - ADE 2026 (fundraiser)",
     "venue": "Zum Barbarossa",
-    "artists": "Ruud Vanden, Paul Nolan (Paul James Nolan), AND(W)Y B2B Tom One Scarlett (US),Cris-H, & more",
+    "artists": "Ruud Vanden, Paul Nolan (Paul James Nolan), AND(W)Y B2B Tom One Scarlett (US),Cris-H, & more Genre: Progressive House, Afro Tech",
     "ticketUrl": "https://ra.co/events/2394012",
     "free": false,
     "source": "sheet"
@@ -323,7 +323,8 @@
     "artists": null,
     "ticketUrl": "https://www.melkweg.nl/en/agenda/ade-opening-concert-kybba-metropole-orkest-special-guests-21-10-2026/",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/metropole-orkest-amsterdam-melkweg-2026-10-21-Ca6yDP1iuQSatq3KpfF8V"
   },
   {
     "id": "s_d11b37698f",
@@ -495,7 +496,7 @@
     "dayLabel": "Wed 21",
     "name": "Madam invites: David Penn & friends",
     "venue": "Madam (duuhh!!)",
-    "artists": "Aline Rocha, David Penn, Ferreck Dawn, Low Steppa, Mousse T., Roog & more TBA",
+    "artists": "Aline Rocha, David Penn, Ferreck Dawn, Low Steppa, Mousse T., Roog & more TBA Genre: House",
     "ticketUrl": "https://site.fourvenues.com/en/madam/events/madam-invites-david-penn--friends-ade-21-10-2026-J96O",
     "free": false,
     "source": "sheet",
@@ -542,7 +543,7 @@
     "dayLabel": "Sun 25",
     "name": "Madam invites: MVSON",
     "venue": "Madam (duhh!!!)",
-    "artists": "Mason Collective & more TBA",
+    "artists": "Mason Collective, Joella Jackson b2b Easttown, Ollie BC Genres: Tech-house, house",
     "ticketUrl": "https://site.fourvenues.com/en/madam/events/madam-invites-mvson-ade-25-10-2026-FJAL",
     "free": false,
     "source": "sheet",
@@ -703,10 +704,10 @@
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/burst-presents-tlm-ade-2026-amsterdam-theater-amsterdam-2026-10-23-CbR9btgjGpcHdZnDkqASW"
   },
   {
-    "id": "s_1b25939d33",
+    "id": "s_bbd9540e1c",
     "day": "sat",
     "dayLabel": "Sat 24",
-    "name": "SKEPTA pres.Mas Tiempo",
+    "name": "SKEPTA pres.Mas Tiempo (SOLD OUT)",
     "venue": "Elementenstraat",
     "artists": "Skepta & more",
     "ticketUrl": "https://www.artistsforpresident.com/skepta-pres-mas-tiempo-amsterdam-ade?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnly-7FcbPW35c7k0mKfNNpx0bLowuvtW3S5pRFWet_BQBFt_l9aQH1vpwxb0_aem_iHRRjW-ZNLiDGxU5DE3v_g",
@@ -931,7 +932,7 @@
     "dayLabel": "Fri 23",
     "name": "We Are Lost ADE",
     "venue": "Westweelde (De Wester & Liefde)",
-    "artists": "Deep Dish, Guy J, Guy Mantzur, Simon Vuarambon, Sahar Z and more",
+    "artists": "Deep Dish, Guy J, Guy Mantzur, Simon Vuarambon, Sahar Z and more Genre: Progressive House, House",
     "ticketUrl": "https://watt-events.nl/events/we-are-lost-ade/",
     "free": false,
     "source": "sheet"
@@ -1049,7 +1050,7 @@
     "dayLabel": "Fri 23",
     "name": "Love On The Rocks",
     "venue": "Klaproos",
-    "artists": "Alexia Glensy, BASHKKA, Cassy, Fais Le Beau, Giammarco Orsini, Melody RA+RE Pancratio, PARAMIDA, Peach, Satoshi Tomiie, Simone de Kunovich, Volkan Akin (live) & Vuur",
+    "artists": "Alexia Glensy, BASHKKA, Cassy, Fais Le Beau, Giammarco Orsini, Melody RA+RE Pancratio, PARAMIDA, Peach, Satoshi Tomiie, Simone de Kunovich, Volkan Akin (live) & Vuur Genre: House",
     "ticketUrl": "https://ra.co/events/2479117",
     "free": false,
     "source": "sheet",
@@ -1101,7 +1102,7 @@
     "ticketUrl": "https://www.cinetol.nl/events/niels-orens",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/niels-orens-support-echofarmer-amsterdam-cinetol-2026-10-22-CbJgd3ZdnVTjQAmNyrssN"
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/niels-orens-amsterdam-cinetol-2026-10-22-CbJgd3ZdnVTjQAmNyrssN"
   },
   {
     "id": "s_1ffcd37042",
@@ -1558,7 +1559,8 @@
     "artists": null,
     "ticketUrl": "https://www.hexagonhq.com/events/hexagon-ade-2026",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/hexagon-ade-amsterdam-soulkitchen-2026-10-22-CePebhnB9pkHDHBeBmRZP"
   },
   {
     "id": "s_53f2d57683",
@@ -1677,7 +1679,7 @@
     "ticketUrl": "https://www.melkweg.nl/en/agenda/face-2-face-22-10-2026/?_gl=1*1p4cypn*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwxvjRBhC2ARIsAI7KJa1Zd6tWN4RaLJE6NtM7VwtRC9UBuXQQ_67XT_yIhvKl_7B8NOOSSeUaAvsjEALw_wcB&gbraid=0AAAAADtZbF8AYoHC7oA8BJGK96vxF__Na",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/face-2-face-amsterdam-melkweg-2026-10-22-CbSkbKEQXQ8PhW56UPzPg"
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/face-2-face-ade-2026-amsterdam-melkweg-2026-10-22-CbSkbKEQXQ8PhW56UPzPg"
   },
   {
     "id": "s_bef20251ff",
@@ -1723,7 +1725,8 @@
     "artists": "CABOO, Noisy Shaun, Rein (NL), DJ Perroz, RobertS (NL), EVNTHZN",
     "ticketUrl": "https://www.beatportal.com/events/hex6pob",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/let-techno-unite-ade-2026-amsterdam-akhnaton-2026-10-21-Cda7RS2Khbt9Lw1noCZFt"
   },
   {
     "id": "s_a12298d53b",
@@ -1753,7 +1756,7 @@
     "dayLabel": "Sat 24",
     "name": "FROW ADE 2026",
     "venue": "Vic's Bar",
-    "artists": "LuxNL, Nessie, Zeus aka JK, & Special guests to be announced....",
+    "artists": "LuxNL, Nessie, Zeus aka JK, Capri, Dan Cluskey, Janika Tenn, & Samo Genre: House",
     "ticketUrl": "https://ra.co/events/2472650",
     "free": true,
     "source": "sheet"
@@ -1880,7 +1883,7 @@
     "dayLabel": "Sun 25",
     "name": "Second Wind (Breakfast Club)",
     "venue": "Radion",
-    "artists": "42nd Avenue b2b Caim, Christian AB b2b Ogazón, Gene On Earth, koen.fm (2), Lo Ds, Marie K (1), Mattias El Mansouri, Matthew Neequaye b2b OK Williams, PHIA, Secret Guest b2b Craig Richards, Vasco, Yumi",
+    "artists": "42nd Avenue b2b Caim, Christian AB b2b Ogazón, Gene On Earth, koen.fm (2), Lo Ds, Marie K (1), Mattias El Mansouri, Matthew Neequaye b2b OK Williams, PHIA, Ben UFO b2b Craig Richards, Vasco, Yumi",
     "ticketUrl": "https://shop.celebratix.io/?t=2nzzrk&eventId=e_nmuhr",
     "free": false,
     "source": "sheet",
@@ -1926,7 +1929,7 @@
     "dayLabel": "Sat 24",
     "name": "Intercell x Philippa Pacho Invites - ADE By Day (SOLD OUT)",
     "venue": "H7 Warehouse",
-    "artists": "Altinbas b2b GiGi FM, DJ Nobu, I-RO, Philippa Pacho, Regent [live], & Rene Wise",
+    "artists": "Altinbas b2b GiGi FM, DJ Nobu, I-RO, Philippa Pacho, Regent [live], & Rene Wise Genre: Techno",
     "ticketUrl": "https://www.intercell.events/events/intercell-x-philippa-pacho-invites-ade-by-day",
     "free": false,
     "source": "sheet",
@@ -2066,7 +2069,7 @@
     "dayLabel": "Wed 21",
     "name": "Nkisi + Crawler + 2K88, Rainy Miller, Bianca Scout",
     "venue": "Muziekgebouw aan t' IJ",
-    "artists": "Nkisi, Crawler, 2K88, Rainy Miller, Bianca Scout, Zohar, Castle",
+    "artists": "Nkisi, Crawler, 2K88, Rainy Miller, Bianca Scout, Zohar, Castle Genre: Experimental",
     "ticketUrl": "https://www.muziekgebouw.nl/en/agenda/crawler-nkisi-2k88-and-rainy-miller-and-bianca-scout-nwd9",
     "free": false,
     "source": "sheet"
@@ -2081,7 +2084,7 @@
     "ticketUrl": "https://www.chipta.com/en/tickets/event/81479/riddimeu/event-info/",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/riddimeu-european-dubstep-collective-amsterdam-desmet-studios-2026-10-22-CdU71pA9He68zGEvDXKPm"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/riddimeu-european-dubstep-collective-ade-2026-amsterdam-desmet-studios-2026-10-22-CdU71pA9He68zGEvDXKPm"
   },
   {
     "id": "s_203f78a988",
@@ -2196,7 +2199,8 @@
     "artists": "Beste Hira (House Set), Idilay, Kyra Khaldi b2b Patrizo Scope, Loradeniz b2b Tommy Chikara, SNPLO (DJ SPENCE & PLO MAN), Tafkamp b2b Samuel Deep b3b Kenji Hina",
     "ticketUrl": "https://shop.celebratix.io/?eventId=e_3ve87&c=2hfkm&cep=cr_msrmz582",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/slpfnk-the-otherside-amsterdam-the-other-side-2026-10-22-CeUo78XDUnzKnLyurSERH"
   },
   {
     "id": "s_2840cfb6c2",
@@ -2311,7 +2315,7 @@
     "ticketUrl": "https://ra.co/events/2484740",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/miss-monique-presents-siona-ade-amsterdam-het-sieraad-2026-10-22-CctMPtKncNrLbBPKVmSEz"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/miss-monique-presents-siona-ade-2026-amsterdam-het-sieraad-2026-10-22-CctMPtKncNrLbBPKVmSEz"
   },
   {
     "id": "s_5e0c384072",
@@ -2409,11 +2413,10 @@
     "dayLabel": "Wed 21",
     "name": "LOBSTER INVITES (FREE w/ RSVP)",
     "venue": "Bret",
-    "artists": "MELLA DEE B2B SAMUEL DEEP (TECHNO SET), KYRA KHALDI & BISQUE",
+    "artists": "MELLA DEE B2B SAMUEL DEEP (TECHNO SET), KYRA KHALDI & BISQUE Genre: Techno, House",
     "ticketUrl": "https://shop.celebratix.io/?t=2rkzmd&fbclid=PAdGRleATydNVwZG9mAmZkaWQWUMxADwNpmmzkVcGUyj_YeJTH1DzHsGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_2uVXp-gCtReKOfOoHj3VxQwct_-oxJqWDxgAM6gle2PWHQEfo1j2KgCrMV_aem_iKUU7RyXf6QtKdN2j-IPQw&eventId=e_guq7w",
     "free": true,
-    "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/lobster-invites-ade-2026-amsterdam-bret-2026-10-21-CeFsHEtQ3M4rjFVgDP7jU"
+    "source": "sheet"
   },
   {
     "id": "s_36e4f61732",
@@ -2654,7 +2657,7 @@
     "ticketUrl": "https://ra.co/events/2491610",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/somov-at-levenslang-ade-amsterdam-levenslang-amsterdam-2026-10-22-Cd7bmmHfkh59Zm2pncxuU"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/somov-at-levenslang-ade-2026-amsterdam-levenslang-amsterdam-2026-10-22-Cd7bmmHfkh59Zm2pncxuU"
   },
   {
     "id": "s_32f85f6960",
@@ -2674,7 +2677,7 @@
     "dayLabel": "Sat 24",
     "name": "Happy Feelings ADE: Girls Don't Sync Invites",
     "venue": "Ijland",
-    "artists": "Girls Don't Sync, Gabriel Muñoz B2B Camille Doe, DJANGO (NL), & Itz3bby",
+    "artists": "Girls Don't Sync, Gabriel Muñoz B2B Camille Doe, DJANGO (NL), & Itz3bby Genre: House, Garage",
     "ticketUrl": "https://ra.co/events/2476166",
     "free": false,
     "source": "sheet",
@@ -2686,7 +2689,7 @@
     "dayLabel": "Sun 25",
     "name": "Les Enfants x Roots ADE2026 pres. tINI, Onur Özer, Gabbs",
     "venue": "The Other Side",
-    "artists": "tINI, Onur Özer, Gabbs, Janeret, Mateo Dufour, JUAAN, Laia, Kim April, ELVI (SE)",
+    "artists": "tINI, Onur Özer, Gabbs, Janeret, Mateo Dufour, JUAAN, Laia, Kim April, ELVI (SE) Genre: Techno, Electro",
     "ticketUrl": "https://ra.co/events/2512551",
     "free": false,
     "source": "sheet",
@@ -2733,7 +2736,7 @@
     "dayLabel": "Sat 24",
     "name": "Mind Against presents Habitat x Loveland",
     "venue": "Mediahaven",
-    "artists": "Mind Against, Ahed, Colyn, Dodi, Dyzen, Earthlife, Echonomist (live), Just Iris, Mano Le Tough, Marcel Dettman, Mathame, Mita Gami, Scenarios, Sideral, Skala, Vaert",
+    "artists": "Mind Against, Ahed, Colyn, Dodi, Dyzen, Earthlife, Echonomist (live), Just Iris, Mano Le Tough, Marcel Dettman, Mathame, Mita Gami, Scenarios, Sideral, Skala, Vaert Genre: Techno, Tech House",
     "ticketUrl": "https://loveland.nl/ade/mind-against/pre-register/",
     "free": false,
     "source": "sheet",
@@ -2891,7 +2894,8 @@
     "artists": "DJ Senc, Mari.TE b2b Magda, Moopie, Nathalie Seres, Tomokitamura, Zeina",
     "ticketUrl": "https://shop.celebratix.io/?eventId=e_qbmnh&c=2hfkm&cep=cr_msrmz582",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/slpfnk-x-yoyaku-ade-amsterdam-klaproos-2026-10-24-CeV811R8A8x9KYC3zKMV1"
   },
   {
     "id": "s_fe119cc170",
@@ -2958,7 +2962,7 @@
     "dayLabel": "Thu 22",
     "name": "Defected ADE",
     "venue": "Thuishaven",
-    "artists": "Joella Jackson, Makez, Mele, Ranger Trucco, Ruze, Sam Divine, TSHA",
+    "artists": "Joella Jackson, Makez, Mele, Ranger Trucco, Ruze, Sam Divine, TSHA Genre: House, Tech-House",
     "ticketUrl": "https://ra.co/events/2494078",
     "free": false,
     "source": "sheet",
@@ -2984,7 +2988,8 @@
     "artists": "Dyed Soundorom, Doudou MD, Sonja Moonear, Volkan Akin Genre: House, Minimal Techno",
     "ticketUrl": "https://shop.celebratix.io/?eventId=e_gaz6w&c=2hfkm&cep=cr_msrmz582",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/slpfnk-levenslang-amsterdam-levenslang-amsterdam-2026-10-24-CeUo9LoTqFA9RzmPpbwgn"
   },
   {
     "id": "s_ac1d813c49",
@@ -3040,7 +3045,8 @@
     "artists": "Heaven Sam, Don Jordy, more TBA Genres: Afrobeats, Amapiano,",
     "ticketUrl": "https://chicagosocialclub.nl/tickets/?eventId=e_w4hzd",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/afro-live-amsterdam-chicago-social-club-2026-10-25-CeV83GVoCdb7XKGBZNetN"
   },
   {
     "id": "s_d945e2728c",
@@ -3087,7 +3093,8 @@
     "artists": "TBA",
     "ticketUrl": "https://shop.celebratix.io/?c=2hfkm&eventId=e_nmyfr",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/slpfnk-bret-ade-amsterdam-bret-2026-10-25-CeV7ztwwpkGcfc1MGrYPr"
   },
   {
     "id": "s_4581e6713f",
@@ -3165,8 +3172,8 @@
     "dayLabel": "Sat 24",
     "name": "Boris Brejcha x Fcking Serious",
     "venue": "Theater Amsterdam",
-    "artists": "TBA",
-    "ticketUrl": "https://loveland.nl/ade/boris-brejcha/pre-register/",
+    "artists": "Ann Clue, Boris Brejcha, Deniz Bul Genre: Minimal Techno",
+    "ticketUrl": "https://loveland.nl/ade/boris-brejcha/tickets/",
     "free": false,
     "source": "sheet",
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/boris-brejcha-pres-fckng-serious-x-loveland-ade-2026-amsterdam-theater-amsterdam-2026-10-24-CdFLC6xgGRRUedBhKrtFz"
@@ -3188,7 +3195,7 @@
     "dayLabel": "Thu 22",
     "name": "Anjunadeep - ADE",
     "venue": "Paradiso",
-    "artists": "TBA",
+    "artists": "Because of Art, Ezequiel Arias, James Grant & Jody Wisternoff, Nicky Elisabeth, Martin Roth, Kasper Koman, Kloyd, Rromarin Genre: Deep House, Minimal, Progressive",
     "ticketUrl": "https://tickets.paradiso.nl/c05e85e5a1724ff59facce28b590470d/",
     "free": false,
     "source": "sheet",
@@ -3215,6 +3222,18 @@
     "ticketUrl": "https://ra.co/events/2493072",
     "free": true,
     "source": "sheet"
+  },
+  {
+    "id": "s_1804f1387c",
+    "day": "sun",
+    "dayLabel": "Sun 25",
+    "name": "GDE Presents: SANCTUARY 🏳️‍🌈🎶",
+    "venue": "Bears",
+    "artists": "Elliott Matos (US), Jeffrey Cheng (US),  Manny Ward (US),  Midnight Society (US), ReginalDJohnson (US),  Sagia (GB),  The Love Team (US) Genre: Disco, House, Tech House",
+    "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/gde-presents-sanctuary/2838264/",
+    "free": true,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/gde-presents-sanctuary-amsterdam-bears-2026-10-25-CeUo9i8Mpso5gDuGdN57W"
   },
   {
     "id": "s_94a04b809f",
@@ -3252,6 +3271,18 @@
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/labyrinth-1-year-anniversary-ade-2026-amsterdam-radion-2026-10-24-CeFj9KUZdedWJaXptUsGM"
   },
   {
+    "id": "s_968d374742",
+    "day": "sun",
+    "dayLabel": "Sun 25",
+    "name": "JEBROER presents Devil's Night 😈🎶",
+    "venue": "The Tequila Club",
+    "artists": "HANS GLOCK, Jebroer (NL), Lady Bee (NL),  MC Villain (NL),  Outsiders (NL), Ruthless (NL), Teknoclash (NL),  The Darkraver (NL) Genre: Hardstyle, Hardcore, Hard Dance",
+    "ticketUrl": "https://site.fourvenues.com/en/the-tequila-club/events/jebroer-presents-devils-night-25-10-20261-DOBC",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/jebroer-presents-devils-night-amsterdam-the-tequila-club-2026-10-25-CeUo9mXEviNwc1hiZAkLq"
+  },
+  {
     "id": "s_b84a95a22f",
     "day": "thu",
     "dayLabel": "Thu 22",
@@ -3260,7 +3291,8 @@
     "artists": "TBA",
     "ticketUrl": "https://ra.co/events/2497456",
     "free": true,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/ra25-amsterdam-greenhouse-sessions-live-amsterdam-san-francisco-bar-2026-10-22-Cda7XKbY6iGm8ADNuM8vz"
   },
   {
     "id": "s_ed14698480",
@@ -3285,12 +3317,23 @@
     "source": "sheet"
   },
   {
-    "id": "s_02aa8d1872",
+    "id": "s_a65116c30b",
+    "day": "sun",
+    "dayLabel": "Sun 25",
+    "name": "JØASE X Boogie House: ADE CLOSING CEREMONY (LIMITED RSVP)",
+    "venue": "Panama",
+    "artists": "JØASE x BOOGIEHOUSE SOUND-SYSTEM, Kirilski, Heritage Listed",
+    "ticketUrl": "https://ra.co/events/2514292",
+    "free": true,
+    "source": "sheet"
+  },
+  {
+    "id": "s_ba4d192ca3",
     "day": "thu",
     "dayLabel": "Thu 22",
     "name": "Animarum Showcase at ADE 2026 - Techno for Your Soul",
-    "venue": "Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45",
-    "artists": "TBA",
+    "venue": "Aevum x 50:Hertz House & Techno Club (Rembrandt Square | Rembrandtplein 45)",
+    "artists": "TBA Genre: Peak Time Techno, Trance, Hard Dance",
     "ticketUrl": "https://ra.co/events/2500510",
     "free": false,
     "source": "sheet"
@@ -3305,7 +3348,7 @@
     "ticketUrl": "https://ra.co/events/2497409",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/ade-at-the-lake-amsterdam-phono-lake-2026-10-23-CdURjNSbTQsJqEwesfFsA"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/ade-at-the-lake-ade-2026-amsterdam-phono-lake-2026-10-23-CdURjNSbTQsJqEwesfFsA"
   },
   {
     "id": "s_08a912d0fc",
@@ -3360,7 +3403,7 @@
     "dayLabel": "Thu 22",
     "name": "ADE Naturalis festival Preview",
     "venue": "Het Dorp",
-    "artists": "TBA",
+    "artists": "Arista, Budino, Jonny Rock, Nunzio Borino, Manfredas, Paula Tape, ThanksMate, OHF",
     "ticketUrl": "https://ra.co/events/2502648",
     "free": false,
     "source": "sheet",
@@ -3459,11 +3502,11 @@
     "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/goldfish-amsterdam-melkweg-2026-10-24-CcZtRG7HPTP1gBugtEq9N"
   },
   {
-    "id": "s_299418e7cc",
+    "id": "s_4dd2e0f191",
     "day": "thu",
     "dayLabel": "Thu 22",
     "name": "GROOVE KITCHEN Live",
-    "venue": "50:HERTZ House & Techno Cafe Rembrandt Square | Halvemaansteeg 14, Amsterdam",
+    "venue": "50:HERTZ House & Techno Cafe (Rembrandt Square | Halvemaansteeg 14)",
     "artists": "Bryant Powell (US), Dan Grange (GB), DJ Dan O'Dwyer (GB), Mallé (GB),  Priimo (GB) , Sam Harris (GB)",
     "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/50hertz-house-techno-cafe-rembrandt-square-thursday-night-2200-0400/2803851/",
     "free": true,
@@ -3549,7 +3592,8 @@
     "artists": "TBA",
     "ticketUrl": "https://ra.co/events/2495931",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/vm-radio-x-synesthesia-ade-amsterdam-generator-amsterdam-2026-10-23-Cda7NXBnnWjzYCmHmwRTU"
   },
   {
     "id": "s_173971ade9",
@@ -3609,7 +3653,7 @@
     "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/women-of-house/2825422/",
     "free": true,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/women-of-house-amsterdam-van-de-werf-2026-10-22-CdvcKk2L6SAZTekKrqJAf"
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/women-of-house-ade-2026-amsterdam-van-de-werf-2026-10-22-CdvcKk2L6SAZTekKrqJAf"
   },
   {
     "id": "s_98805b6731",
@@ -3687,7 +3731,7 @@
     "dayLabel": "Fri 23",
     "name": "MANO LE TOUGH PRESENTS MAEVE",
     "venue": "Bret",
-    "artists": "Mano Le Tough, Cassy b2b Carlos Valdes, Luke Alessi, The Drifter",
+    "artists": "Mano Le Tough, Cassy b2b Carlos Valdes, Luke Alessi, The Drifter Genre: Techno, House",
     "ticketUrl": "https://www.bret.bar/ticketshop/e_9pgfe",
     "free": false,
     "source": "sheet",
@@ -3703,7 +3747,7 @@
     "ticketUrl": "https://ra.co/events/2497413",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/homegrown-amsterdam-phono-lake-2026-10-24-CdURjRKEDZJaZg4Zs8Y6y"
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/homegrown-ade-2026-amsterdam-phono-lake-2026-10-24-CdURjRKEDZJaZg4Zs8Y6y"
   },
   {
     "id": "s_13b785bed0",
@@ -3801,11 +3845,11 @@
     "dayLabel": "Sat 24",
     "name": "Now Here by Paco Osuna",
     "venue": "Escape",
-    "artists": "Paco Osuna, more TBA",
-    "ticketUrl": "https://shop.tickets.cm.com/733fa792-54f5-87a6-fb1c-6bae08079997/preregistration",
+    "artists": "Paco Osuna, Easttown, Ilario Alicante, Melanie Ribbie, Sosa, and more",
+    "ticketUrl": "https://ra.co/events/2502535",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/paco-osuna-x-now-here-ade-amsterdam-escape-2026-10-24-CdhgYCyZw86MPRb81StEp"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/paco-osuna-x-now-here-ade-2026-amsterdam-escape-2026-10-24-CdhgYCyZw86MPRb81StEp"
   },
   {
     "id": "s_d1e185e926",
@@ -3932,7 +3976,7 @@
     "ticketUrl": "https://skatecafe.weticket.io/ade-pip-goes-skatecafe/shop",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/ade-pip-goes-skatecafe-w-tba-amsterdam-skatecafe-2026-10-23-CdqQMbKMSg832JHXkCkjm"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/ade-pip-goes-skatecafe-w-b-v8-bru-golden-era-live-buba-the-freak-chuckie-jeans-david-vunk-jetti-marsman-itz3bby-izzy-wardtini-jelly-ki-ip-jire-spiel-lamberghini-floyd-amsterdam-skatecafe-2026-10-23-CdqQMbKMSg832JHXkCkjm"
   },
   {
     "id": "s_2bc677e33a",
@@ -4037,15 +4081,16 @@
     "source": "sheet"
   },
   {
-    "id": "s_52b1e43aaf",
+    "id": "s_a8d21c916c",
     "day": "sat",
     "dayLabel": "Sat 24",
-    "name": "ARRYBA BOAT PARTY 🚢🎉",
-    "venue": "Supper Cruise (De Ruijterkade 14, 1012) aka ON A BOAT",
-    "artists": "B Jones, more TBA",
-    "ticketUrl": "https://bjonesdj.com/b-jones-arryba-boat-party/",
+    "name": "Dusty Cabinets (Day 2)",
+    "venue": "De Sering",
+    "artists": "TBA",
+    "ticketUrl": "https://ra.co/events/2489338",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/dusty-cabinets-ade-2026-amsterdam-de-sering-2026-10-24-Cd1vNGzriWgQGvJdk2wEd"
   },
   {
     "id": "s_fda8d1c05e",
@@ -4057,15 +4102,15 @@
     "ticketUrl": "https://shop.clubraum.nl/471a491050c14cbc946ce7c17fed844f/",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/ade-clone-records-detroit-edition-amsterdam-club-raum-2026-10-22-CePSHb6wk26Ff5Cw8vk89"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/ade-raum-invites-clone-records-amsterdam-club-raum-2026-10-22-CePSHb6wk26Ff5Cw8vk89"
   },
   {
-    "id": "s_9d11f899e1",
+    "id": "s_6c022aa529",
     "day": "fri",
     "dayLabel": "Fri 23",
-    "name": "OGAZÓN INVITES 🌞🎶",
+    "name": "OGAZÓN INVITES 🌞🎶 (SOLD OUT)",
     "venue": "Bret",
-    "artists": "FREDDY K B2B OGAZÓN B2B RENE WISE",
+    "artists": "FREDDY K B2B OGAZÓN B2B RENE WISE Genre: Techno, House",
     "ticketUrl": "https://shop.celebratix.io/?t=2rkzmd&fbclid=PAdGRleATydNVwZG9mAmZkaWQWUMxADwNpmmzkVcGUyj_YeJTH1DzHsGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_2uVXp-gCtReKOfOoHj3VxQwct_-oxJqWDxgAM6gle2PWHQEfo1j2KgCrMV_aem_iKUU7RyXf6QtKdN2j-IPQw&eventId=e_q29ch",
     "free": false,
     "source": "sheet",
@@ -4091,7 +4136,8 @@
     "artists": "Paul Kalkbrenner",
     "ticketUrl": "https://loveland.nl/ade/paul-kalkbrenner-live/pre-register/?fbclid=PAVERFWAT77vNwZG9mAmZkaWQWUNPQqlJj8xhXROFTFLFTs9OX7XjqRGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp-MKadu7Cc-WW3KG24kZaOYMMspBRBZo9faTCE3XEQ3EXWrwqNriR3_bHeil_aem_M3CMuRshdy0FQ_GB0J84Lg",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/theatre-tickets/paul-kalkbrenner-live-x-loveland-ade-2026-amsterdam-theater-amsterdam-2026-10-22-CeV7jWaci8fs14hL8QzE9"
   },
   {
     "id": "s_73b8bff52c",
@@ -4099,7 +4145,7 @@
     "dayLabel": "Fri 23",
     "name": "ANZ, MALLAURY, SHERELLE",
     "venue": "Bret",
-    "artists": "ANZ, MALLAURY, SHERELLE",
+    "artists": "ANZ, MALLAURY, SHERELLE Genre: Breakbeats, Bass, Garage",
     "ticketUrl": "https://shop.celebratix.io/?t=2rkzmd&fbclid=PAdGRleATydNVwZG9mAmZkaWQWUMxADwNpmmzkVcGUyj_YeJTH1DzHsGV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp_2uVXp-gCtReKOfOoHj3VxQwct_-oxJqWDxgAM6gle2PWHQEfo1j2KgCrMV_aem_iKUU7RyXf6QtKdN2j-IPQw&eventId=e_n333r",
     "free": false,
     "source": "sheet",
@@ -4153,6 +4199,17 @@
     "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/xo-festival-ade-2026-amsterdam-bar-rouge-2026-10-24-Cdo3UZN1ymrV9cGEgjnwp"
   },
   {
+    "id": "s_6f55e0b513",
+    "day": "thu",
+    "dayLabel": "Thu 22",
+    "name": "Around Us & Callecat Invites",
+    "venue": "Kadinsky Cafe",
+    "artists": "Aiden Blaze, Albano Bastonero, Around Us, Bass van Duijn, Callecat, EMPHI, Gustin, Nicholas Van Orton, NOIYSE PROJECT, Pablo Pegar, Rauschhaus, Wolf Ear & Fassbender Genre: Progressive House",
+    "ticketUrl": "https://www.facebook.com/events/1627080402326330",
+    "free": true,
+    "source": "sheet"
+  },
+  {
     "id": "s_e6afa56c88",
     "day": "fri",
     "dayLabel": "Fri 23",
@@ -4169,8 +4226,19 @@
     "dayLabel": "Sat 24",
     "name": "The Disco Express (TDE) x ADE - Club Train by Night 🚂🪩",
     "venue": "Amsterdam Central Station (on a train!!!)",
-    "artists": "TBD",
+    "artists": "Barbara Tucker (Live PA), Block & Crown, Bustin' Loose, Crystal Touch, Dan Cluskey, DJ Q, Georgie Porgie, Jacker's Revenge, Javier Anxiety, Jazzhawns, Magnolia, Marcel Vogel, Monsieur Van Pratt, Old as Funk, Poppi, Sam Karlson, Stacy Kidd, Fusco Stefano, Tatiana + Special Guests TBA Genre: House, Disco",
     "ticketUrl": "https://ra.co/events/2509389",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_ec49803cf0",
+    "day": "thu",
+    "dayLabel": "Thu 22",
+    "name": "RADIOHOP - Tomoki Sanders",
+    "venue": "Bimhus",
+    "artists": "RADIOHOP: Joshua Lutz, Euan Jenkins, Johnny Biner and Joel Svedberg, Tomoki Sanders, Lucas Benjamin, & DJ Kay Tee Genre: Experimental Jazz",
+    "ticketUrl": "https://www.bimhuis.nl/en/calendar/radiohop-tomoki-sanders",
     "free": false,
     "source": "sheet"
   },
@@ -4198,6 +4266,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_28856e9190",
+    "day": "thu",
+    "dayLabel": "Thu 22",
+    "name": "Eastern Margins x Natural Mind",
+    "venue": "Parallel",
+    "artists": "Effie, Minna-no-Kimochi, Mechatok, Torus",
+    "ticketUrl": "https://parallel.am/programme/eastern-margins-natural-mind-ade",
+    "free": false,
+    "source": "sheet"
+  },
+  {
     "id": "s_79afd2c8f7",
     "day": "fri",
     "dayLabel": "Fri 23",
@@ -4219,6 +4298,17 @@
     "free": true,
     "source": "sheet",
     "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/come-together-as-one-ade-2026-amsterdam-cafe-brandon-2026-10-24-Ce9s2DUdP9bCfMFoXLBWb"
+  },
+  {
+    "id": "s_f14e73f64e",
+    "day": "thu",
+    "dayLabel": "Thu 22",
+    "name": "Marginalia x ADE",
+    "venue": "Onder Hans",
+    "artists": "ELIF, Cris-H Genres: Progressive House, Techno",
+    "ticketUrl": "https://casa-productions.fairtix.io/p/marginaliaade",
+    "free": false,
+    "source": "sheet"
   },
   {
     "id": "s_7297bfd150",
@@ -4260,7 +4350,7 @@
     "dayLabel": "Sat 24",
     "name": "Stil vor Talent ADE Showcase",
     "venue": "The Other Side",
-    "artists": "Oliver Koletzki b2b Frida Darko, Malive, HOVR, Annett Gapstream",
+    "artists": "Oliver Koletzki b2b Frida Darko, Malive, HOVR, Annett Gapstream Genre: Techno, Tech-house",
     "ticketUrl": "https://ra.co/events/2510533",
     "free": false,
     "source": "sheet",
@@ -4344,7 +4434,8 @@
     "artists": "Artist Lebo, Stefan Thomas",
     "ticketUrl": "https://www.instagram.com/p/DcbjNEfDbEE/",
     "free": true,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/drumcity-amsterdam-cafe-brandon-2026-10-23-CeUo7g5GtK3EvNB9reAMn"
   },
   {
     "id": "s_f76f3c30ae",
@@ -4364,10 +4455,11 @@
     "dayLabel": "Fri 23",
     "name": "SLPFNK x Dungeon Funk",
     "venue": "Shelter",
-    "artists": "DJ Perception, Dungeon Funk (Dungeon Meat b2b Samule Deep), Helly b2b DJ TJIZZA, Larry De Kat b2b Garrett David, Lori",
+    "artists": "DJ Perception, Dungeon Funk (Dungeon Meat b2b Samule Deep), Helly b2b DJ TJIZZA, Larry De Kat b2b Garrett David, Lori Genre: House, Garage",
     "ticketUrl": "https://site.fourvenues.com/en/shelter-amsterdam/events/slapfunk-23-10-2026-605J",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/slpfnk-x-dungeon-funk-ade-amsterdam-shelter-amsterdam-adam-toren-2026-10-23-CeV81ta9TeypggB49reSt"
   },
   {
     "id": "s_95d9ac43a7",
@@ -4389,8 +4481,7 @@
     "artists": "BELLA (NL), Demi Riquisimo, Evi, Galleria Europa (Fabrizio Mammarella & Giulia Gutterer), SHMLSS, Sound Metaphors Djs",
     "ticketUrl": "https://sales.ticketing.cm.com/festifestade26/nl-nl/15850458-bc22-4058-bd0c-04d225e7dc04",
     "free": false,
-    "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/festifest-ade-2026-amsterdam-het-dorp-2026-10-23-CdaAAsyDuKHsHvzoSssQs"
+    "source": "sheet"
   },
   {
     "id": "s_bc99ffebde",
@@ -4409,10 +4500,11 @@
     "dayLabel": "Fri 23",
     "name": "IPSO by Kölsch",
     "venue": "Het Sieraad",
-    "artists": "Kolsch, Eelke Kleij, Kotiēr",
+    "artists": "Kolsch, Eelke Kleij, Kotiēr Genre: Progressive House, Progressive Techno",
     "ticketUrl": "https://ra.co/events/2521958",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/ipso-by-kolsch-amsterdam-het-sieraad-2026-10-23-CeUo8DNwrdKDsSKFYFHDz"
   },
   {
     "id": "s_a849569fff",
@@ -4450,6 +4542,18 @@
     "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/techno-therapy-x-herbivox-ade-saturday-amsterdam-waterhouse-studios-2026-10-24-CePSUTCEk96ykQ9QsKvhj"
   },
   {
+    "id": "s_ea8cd11894",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "On The Rocks with Tornado Wallace",
+    "venue": "Hearth",
+    "artists": "Tornado Wallace, On the Rocks (OTR) Genres: House, Italo Disco",
+    "ticketUrl": "https://ra.co/events/2523021",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/tornado-wallace-amsterdam-hearth-2026-10-23-CeV7jTPsjkFc3JJ8DfTcm"
+  },
+  {
     "id": "s_79f2fb3d00",
     "day": "sat",
     "dayLabel": "Sat 24",
@@ -4460,6 +4564,17 @@
     "free": true,
     "source": "sheet",
     "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/only-4djs-x-ade-amsterdam-the-heineken-hoek-steakhouse-diamond-2026-10-24-CePSMHvCSw24RZUDxt5rg"
+  },
+  {
+    "id": "s_c8618f63a6",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "Hot Meal pres. Mija Invites",
+    "venue": "Basement",
+    "artists": "Mija, more tba",
+    "ticketUrl": "https://prereg.dagostino.digital/Nril6",
+    "free": false,
+    "source": "sheet"
   },
   {
     "id": "s_ad5986bf53",
@@ -4474,6 +4589,18 @@
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/tiktak-house-special-ade-2026-amsterdam-supperclub-amsterdam-2026-10-24-CePcJXysNYpntC3bFqqXP"
   },
   {
+    "id": "s_55ed4d9985",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "NRG Takeover",
+    "venue": "Nxt Museum",
+    "artists": "blk.  DATSKO, JAZZY, Jezza & Jod, KRUELTY, PRADA2000, SaltySis Toxic Machinery Genre: Techno",
+    "ticketUrl": "https://ra.co/events/2522580",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/nrg-ade-amsterdam-nxt-museum-2026-10-23-CeUo7RtjqAZyJzgs9bQnR"
+  },
+  {
     "id": "s_731263fd39",
     "day": "sat",
     "dayLabel": "Sat 24",
@@ -4483,6 +4610,135 @@
     "ticketUrl": "https://skatecafe.weticket.io/ade-patta-x-keep-hush-1",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/ade-patta-x-keep-hush-w-tba-amsterdam-skatecafe-2026-10-24-CeCEHEP4w8ooDW7UjnEKw"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/patta-x-keep-hush-w-ade-2026-amsterdam-skatecafe-2026-10-24-CeCEHEP4w8ooDW7UjnEKw"
+  },
+  {
+    "id": "s_179def44e9",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "Pintai",
+    "venue": "Borisov",
+    "artists": "Lb Honne, ORION (IT) , Gizem, Hame, Hafa, frederic Genre: Techno, Deep House",
+    "ticketUrl": "https://ra.co/events/2523073",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_f10cb0404e",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "On The Rocks with Sassy J",
+    "venue": "Hearth",
+    "artists": "Sassy J , On the Rocks (OTR), Tessa, Joe Paradise Genres: House, Italo Disco",
+    "ticketUrl": "https://ra.co/events/2523037",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/sassy-j-amsterdam-hearth-2026-10-24-CeV7jQL5vAq13EXN9EKJC"
+  },
+  {
+    "id": "s_53161edf9e",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "Dusty Cabinets (Day 1)",
+    "venue": "De Sering",
+    "artists": "TBA",
+    "ticketUrl": "https://ra.co/events/2489337",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/dusty-cabinets-ade-2026-amsterdam-de-sering-2026-10-23-CeTHpqzUEiAQRpPHJKzAg"
+  },
+  {
+    "id": "s_179470724e",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "RELO4D & Friends - The After hours (limited capacity)",
+    "venue": "50 Hertz - House and Techno Cafe (Rembrandt Square 14, Halvemaansteeg - 1017)",
+    "artists": "RELO4D, Pedro Mercado, Dizo, and more TBA Genres: Tech house, minimal techno",
+    "ticketUrl": "https://ra.co/events/2523047",
+    "free": true,
+    "source": "sheet"
+  },
+  {
+    "id": "s_31df843842",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "Sissi's ADE Friday with Bronka x Kurashi",
+    "venue": "Sissi's",
+    "artists": "Kurashi Soundsystem, Bronka Genres: Baile Funk, Rio Funk",
+    "ticketUrl": "https://sissisamsterdam.weticket.io/sissis-ade-bronka-x-kurashi/shop?",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/sissis-ade-friday-w-bronka-x-kurashi-amsterdam-sissis-amsterdam-anthony-fokkerweg-3-2026-10-23-CeRUuqy9LvY3gHBPZfdMg"
+  },
+  {
+    "id": "s_1342e473cf",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "b:wired presents: Bondage-Music x Paracou",
+    "venue": "Yellow House",
+    "artists": "Bambi-S, Bas F, Cinthie, Cristina Lazic, LEENI & Danilo Kupfernagel, Lola Palmer, Lolu Menayed, Mathias Kaden, Meat, Mihai Popoviciu, Norman Weber, Pornbugs, Steve Bug, Thomas Stieler Genres: House, Tech House",
+    "ticketUrl": "https://www.tixforgigs.com/Event/76426?af=e05e248k6xxp&saf=0t3p1rm&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAacKLRpk5MS8S7p-DMrHKfSyg5Vd3k7p59mu5i5ciNtkh97-ihIJAUt06Z45VQ_aem_ukmfoOC6FpRsVvnLQBfyUg",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/bwired-presents-bondage-music-x-paracou-amsterdam-yellow-house-2026-10-24-CeV7o1TGiJHXNMunumKh6"
+  },
+  {
+    "id": "s_9a84d3bdca",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "FLY Amsterdam - Day Party",
+    "venue": "Shelter",
+    "artists": "Morgan Seatree, Oden & Fatzo (live), Secret Special Guests, Carmen Baía, PASO, Rowan, Sweeny, Off Record, Suther Genres: Progressive House, Tech House",
+    "ticketUrl": "https://dice.fm/event/v3x5y7-fly-amsterdam-ade-day-party-24th-oct-shelter-amsterdam-tickets",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/fly-amsterdam-ade-amsterdam-shelter-amsterdam-adam-toren-2026-10-24-CePLHQCAZkLYd1GqpMGmv"
+  },
+  {
+    "id": "s_97d60c5420",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "HOUSE MY DISCO X FUN WITH DICK & JAYNE",
+    "venue": "Blend XL",
+    "artists": "DJ Hugo H. (US),  Rod Carrillo (PA),  The Weather Girls (US) Genres: Disco, House, Tech House",
+    "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/house-my-disco-x-fun-with-dick-jayne/2838380/",
+    "free": true,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/house-my-disco-x-fun-with-dick-jayne-amsterdam-blend-xl-2026-10-24-CeUo98SJn4aTW4t7V759g"
+  },
+  {
+    "id": "s_73e99d30c7",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "VERKNIPT ADE SPECIAL SATURDAY",
+    "venue": "AFAS Live",
+    "artists": "AIDEN, ANGERFIST B2B KARAH, BEN TECHY B2B SANTØS, DIVASI, HARDSOK, MANDY B2B NEGITIV, ONLYNUMBERS, TRYM Genre: Hard Dance, Hardstyle",
+    "ticketUrl": "https://www.verknipt.org/verknipt-ade-special-saturday/tickets/",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/verknipt-ade-specials-ade-2026-amsterdam-afas-live-2026-10-24-CcRqwAJFFo3RFDSfMaEYs"
+  },
+  {
+    "id": "s_41fb13f7e3",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "RARA AVIS 🏳️‍🌈🎶",
+    "venue": "Club Nyx",
+    "artists": "Alice Olsthoorn b2b TEKNA, DJ SEXSTACY, Spikey Lee, and more TBA Genre: Techno, House",
+    "ticketUrl": "https://shop.weeztix.com/5bf1fea8-c4e9-4847-84bc-51e7dfa01a69/tickets?shop_code=f26afaud&original_referer=https%3A%2F%2Fra.co%2F",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_88f21fd0e5",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "LEISURE MUSIC SHOWCASE",
+    "venue": "Bears",
+    "artists": "Atarrayo (AT), Balata (GF), Bastiaan Buesink (NL), Eddy Tango (DE), Edictum (AT), Gifted DJ (ZA), Goose Tann (LB), Hot Tuneik (MX), Inessa (AT), Kounterpart (IN), LAVO (AT),  RA (MX), Tim Susa (DE) Genres: deep house, progressive house, Afro house,  melodic house and techno, electro",
+    "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/leisure-music-showcase/2838376/",
+    "free": true,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/leisure-music-showcase-amsterdam-bears-2026-10-24-CeUo92KxHyF82uxa1uHUY"
   }
 ]
