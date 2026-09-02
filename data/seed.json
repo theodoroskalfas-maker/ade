@@ -3020,11 +3020,7 @@
     "ticketUrl": "https://shop.celebratix.io/?eventId=e_gaz6w&c=2hfkm&cep=cr_msrmz582",
     "free": false,
     "source": "sheet",
-<<<<<<< Updated upstream
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/slpfnk-levenslang-amsterdam-levenslang-amsterdam-2026-10-24-CeUo9LoTqFA9RzmPpbwgn"
-=======
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/slpfnk-levenslang-ade-2026-amsterdam-levenslang-amsterdam-2026-10-24-CeUo9LoTqFA9RzmPpbwgn"
->>>>>>> Stashed changes
   },
   {
     "id": "s_ac1d813c49",
@@ -3129,11 +3125,7 @@
     "ticketUrl": "https://shop.celebratix.io/?c=2hfkm&eventId=e_nmyfr",
     "free": false,
     "source": "sheet",
-<<<<<<< Updated upstream
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/slpfnk-bret-ade-amsterdam-bret-2026-10-25-CeV7ztwwpkGcfc1MGrYPr"
-=======
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/slpfnk-monday-manifesto-at-bret-ade-2026-amsterdam-bret-2026-10-25-CeV7ztwwpkGcfc1MGrYPr"
->>>>>>> Stashed changes
   },
   {
     "id": "s_4581e6713f",
@@ -3272,11 +3264,7 @@
     "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/gde-presents-sanctuary/2838264/",
     "free": true,
     "source": "sheet",
-<<<<<<< Updated upstream
-    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/gde-presents-sanctuary-amsterdam-bears-2026-10-25-CeUo9i8Mpso5gDuGdN57W"
-=======
     "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/gde-presents-sanctuary-ade-2026-amsterdam-bears-2026-10-25-CeUo9i8Mpso5gDuGdN57W"
->>>>>>> Stashed changes
   },
   {
     "id": "s_94a04b809f",
@@ -3323,11 +3311,7 @@
     "ticketUrl": "https://site.fourvenues.com/en/the-tequila-club/events/jebroer-presents-devils-night-25-10-20261-DOBC",
     "free": false,
     "source": "sheet",
-<<<<<<< Updated upstream
-    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/jebroer-presents-devils-night-amsterdam-the-tequila-club-2026-10-25-CeUo9mXEviNwc1hiZAkLq"
-=======
     "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/jebroer-presents-devils-night-ade-2026-amsterdam-the-tequila-club-2026-10-25-CeUo9mXEviNwc1hiZAkLq"
->>>>>>> Stashed changes
   },
   {
     "id": "s_b84a95a22f",
@@ -4579,11 +4563,7 @@
     "dayLabel": "Fri 23",
     "name": "SLPFNK x Dungeon Funk",
     "venue": "Shelter",
-<<<<<<< Updated upstream
-    "artists": "DJ Perception, Dungeon Funk (Dungeon Meat b2b Samule Deep), Helly b2b DJ TJIZZA, Larry De Kat b2b Garrett David, Lori Genre: House, Garage",
-=======
     "artists": "DJ Perception, Dungeon Funk (Dungeon Meat b2b Samuel Deep), Helly b2b DJ TJIZZA, Larry De Kat b2b Garrett David, Lori Genre: House, Garage",
->>>>>>> Stashed changes
     "ticketUrl": "https://site.fourvenues.com/en/shelter-amsterdam/events/slapfunk-23-10-2026-605J",
     "free": false,
     "source": "sheet",
@@ -4632,11 +4612,7 @@
     "ticketUrl": "https://ra.co/events/2521958",
     "free": false,
     "source": "sheet",
-<<<<<<< Updated upstream
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/ipso-by-kolsch-amsterdam-het-sieraad-2026-10-23-CeUo8DNwrdKDsSKFYFHDz"
-=======
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/ipso-by-kolsch-ade-2026-amsterdam-het-sieraad-2026-10-23-CeUo8DNwrdKDsSKFYFHDz"
->>>>>>> Stashed changes
   },
   {
     "id": "s_a849569fff",
@@ -4815,8 +4791,6 @@
     "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/bwired-presents-bondage-music-x-paracou-amsterdam-yellow-house-2026-10-24-CeV7o1TGiJHXNMunumKh6"
   },
   {
-<<<<<<< Updated upstream
-=======
     "id": "s_63bac56051",
     "day": "fri",
     "dayLabel": "Fri 23",
@@ -4829,7 +4803,6 @@
     "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/petrified-phoenix-xxx-ruby-emma-pres-a-12-hour-ade-takeover-amsterdam-ruby-emma-hotel-bar-2026-10-23-Ce9s1cL23ogznpHr1m9D8"
   },
   {
->>>>>>> Stashed changes
     "id": "s_9a84d3bdca",
     "day": "sat",
     "dayLabel": "Sat 24",
@@ -4887,8 +4860,6 @@
     "free": true,
     "source": "sheet",
     "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/leisure-music-showcase-amsterdam-bears-2026-10-24-CeUo92KxHyF82uxa1uHUY"
-<<<<<<< Updated upstream
-=======
   },
   {
     "id": "s_1bf5c44763",
@@ -4922,6 +4893,5 @@
     "ticketUrl": "https://ra.co/events/2524505",
     "free": false,
     "source": "sheet"
->>>>>>> Stashed changes
   }
 ]
