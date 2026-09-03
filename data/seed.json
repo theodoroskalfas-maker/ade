@@ -45,7 +45,7 @@
     "ticketUrl": "https://amf-festival.com/tickets/",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/amf-2026-amsterdam-johan-cruijff-arena-2026-10-24-CZPhzim7HwHaj43eh3m8k"
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/amf-2026-ade-2026-amsterdam-johan-cruijff-arena-2026-10-24-CZPhzim7HwHaj43eh3m8k"
   },
   {
     "id": "s_6f59b02529",
@@ -323,8 +323,7 @@
     "artists": null,
     "ticketUrl": "https://www.melkweg.nl/en/agenda/ade-opening-concert-kybba-metropole-orkest-special-guests-21-10-2026/",
     "free": false,
-    "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/metropole-orkest-amsterdam-melkweg-2026-10-21-Ca6yDP1iuQSatq3KpfF8V"
+    "source": "sheet"
   },
   {
     "id": "s_d11b37698f",
@@ -890,7 +889,7 @@
     "ticketUrl": "https://essenceoftrance.com/ade-2026/",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/amsterdam-trance-event-amsterdam-panama-amsterdam-2026-10-24-CbiuWFKitGhm5z2rifH4W"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/amsterdam-trance-event-ade-2026-amsterdam-panama-amsterdam-2026-10-24-CbiuWFKitGhm5z2rifH4W"
   },
   {
     "id": "s_27f6521e98",
@@ -2324,7 +2323,8 @@
     "artists": "TBA",
     "ticketUrl": "https://ra.co/events/2484443",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/perspectives-x-melodic-room-x-vvissionn-ade-2026-amsterdam-onder-hans-2026-10-23-Cecye2UtLQ1QVW99v5ras"
   },
   {
     "id": "s_2c19507d2c",
@@ -3486,6 +3486,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_ab64fb59cb",
+    "day": "sun",
+    "dayLabel": "Sun 25",
+    "name": "Reinier Zonneveld 8HRS Live x Loveland",
+    "venue": "Mediahaven",
+    "artists": "Reinier Zonneveld Genres: Acid, Techno",
+    "ticketUrl": "https://loveland.nl/ade/reinier/",
+    "free": false,
+    "source": "sheet"
+  },
+  {
     "id": "s_3057d612d1",
     "day": "thu",
     "dayLabel": "Thu 22",
@@ -3658,7 +3669,7 @@
     "ticketUrl": "https://site.fourvenues.com/en/the-loft/events/the-loft-presents-franky-rizardo-24-10-2026-QJYN?fbclid=PAdGRleATN7B5wZG9mAmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp-ggh0XtShdJiVfYfxsOtUKFkfa2iKc-mL7IuzAUOLq93fsHrZHY335owEuB_aem_D0QysHjBmojo8Njmhui4WQ",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/the-loft-presents-franky-rizardo-amsterdam-the-loft-adam-toren-2026-10-24-CcCXAwgr23yTpdQ9z6thN"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/the-loft-presents-franky-rizardo-ade-2026-amsterdam-the-loft-adam-toren-2026-10-24-CcCXAwgr23yTpdQ9z6thN"
   },
   {
     "id": "s_5c0655b411",
@@ -3682,7 +3693,7 @@
     "ticketUrl": "https://www.enterticket.es/eventos/elrow-ade-de-kromhouthal-2026-156867?_gl=1*1cbpqu7*_gcl_au*NzMwMTI2NDM0LjE3ODU1MTkyNDg.*_ga*MTQ4MDA3MzQ1LjE3ODU1MTkyNDg.*_ga_BCEZS6M39H*czE3ODU1MTkyNDckbzEkZzAkdDE3ODU1MTkyNDckajYwJGwwJGgw",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/elrow-amsterdam-ade-2026-amsterdam-de-kromhouthal-2026-10-23-Ccjz2icaZi3fjHmpSQsCi"
+    "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/elrow-ade-2026-amsterdam-de-kromhouthal-2026-10-23-Ccjz2icaZi3fjHmpSQsCi"
   },
   {
     "id": "s_1613ab0c76",
@@ -3936,7 +3947,7 @@
     "ticketUrl": "https://bordelloaparigi.stager.co/shop/default/events/111684862",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/bordello-a-parigi-ade-amsterdam-noorderlicht-cafe-2026-10-24-CdhgW8f4XrPqFsFHjNfcu"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/bordello-a-parigi-ade-2026-amsterdam-noorderlicht-cafe-2026-10-24-CdhgW8f4XrPqFsFHjNfcu"
   },
   {
     "id": "s_9ba136f674",
@@ -4028,7 +4039,7 @@
     "ticketUrl": "https://skatecafe.weticket.io/ade-pip-goes-skatecafe/shop",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/ade-pip-goes-skatecafe-w-b-v8-bru-golden-era-live-buba-the-freak-chuckie-jeans-david-vunk-jetti-marsman-itz3bby-izzy-wardtini-jelly-ki-ip-jire-spiel-lamberghini-floyd-amsterdam-skatecafe-2026-10-23-CdqQMbKMSg832JHXkCkjm"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/pip-goes-skatecafe-ade-2026-amsterdam-skatecafe-2026-10-23-CdqQMbKMSg832JHXkCkjm"
   },
   {
     "id": "s_2bc677e33a",
@@ -4073,7 +4084,8 @@
     "artists": "Hunee b2b Stella Zekri b2b Suze Ijo",
     "ticketUrl": "https://site.fourvenues.com/en/the-loft/events/the-loft-presents-hunee-b2b-stella-zekri-b2b-suze-ijo-24-10-2026-5VTY?fbclid=PAVERFWATgDq1wZG9mAmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp-Q3vFCeHFd3GJEKAJRd_jiRJkH0oneUJmEDxhEKxp-BDx1IMZ3eITWI3dAH_aem_kXXzDu9OaCb9h8bp2VIUkw",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/the-loft-presents-hunee-b2b-stella-zekri-b2b-suze-ijo-ade-2026-amsterdam-the-loft-adam-toren-2026-10-24-CcCXAmUgjXUzGDDMvC1v4"
   },
   {
     "id": "s_a26b25a68f",
@@ -4138,7 +4150,7 @@
     "dayLabel": "Sat 24",
     "name": "Dusty Cabinets (Day 2)",
     "venue": "De Sering",
-    "artists": "TBA",
+    "artists": "LNR (UK), k means, Saint Abdullah & Eomac (live), MBODJ",
     "ticketUrl": "https://ra.co/events/2489338",
     "free": false,
     "source": "sheet",
@@ -4259,7 +4271,8 @@
     "artists": "Aiden Blaze, Albano Bastonero, Around Us, Bass van Duijn, Callecat, EMPHI, Gustin, Nicholas Van Orton, NOIYSE PROJECT, Pablo Pegar, Rauschhaus, Wolf Ear & Fassbender Genre: Progressive House",
     "ticketUrl": "https://www.facebook.com/events/1627080402326330",
     "free": true,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/around-us-callecat-invites-amsterdam-kadinsky-cafe-2026-10-22-CechGURd24w5TwZzk6v3w"
   },
   {
     "id": "s_e6afa56c88",
@@ -4623,8 +4636,7 @@
     "artists": "Galecta, Lua, DJ Ray, Mango & Ginger, Juliana X",
     "ticketUrl": "https://ra.co/events/2519529",
     "free": false,
-    "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/baile-da-galecta-ade-2026-amsterdam-benelux-bar-2026-10-24-CePSSdhxCViNR2peqezYm"
+    "source": "sheet"
   },
   {
     "id": "s_311043d536",
@@ -4749,7 +4761,7 @@
     "dayLabel": "Fri 23",
     "name": "Dusty Cabinets (Day 1)",
     "venue": "De Sering",
-    "artists": "TBA",
+    "artists": "Camille Maria, Marylou, Darwin, Zoë Mc Pherson (live)",
     "ticketUrl": "https://ra.co/events/2489337",
     "free": false,
     "source": "sheet",
@@ -4776,7 +4788,7 @@
     "ticketUrl": "https://sissisamsterdam.weticket.io/sissis-ade-bronka-x-kurashi/shop?",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/sissis-ade-friday-w-bronka-x-kurashi-amsterdam-sissis-amsterdam-anthony-fokkerweg-3-2026-10-23-CeRUuqy9LvY3gHBPZfdMg"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/sissis-friday-w-bronka-x-kurashi-ade-2026-amsterdam-sissis-amsterdam-anthony-fokkerweg-3-2026-10-23-CeRUuqy9LvY3gHBPZfdMg"
   },
   {
     "id": "s_1342e473cf",
@@ -4788,7 +4800,7 @@
     "ticketUrl": "https://www.tixforgigs.com/Event/76426?af=e05e248k6xxp&saf=0t3p1rm&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAacKLRpk5MS8S7p-DMrHKfSyg5Vd3k7p59mu5i5ciNtkh97-ihIJAUt06Z45VQ_aem_ukmfoOC6FpRsVvnLQBfyUg",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/bwired-presents-bondage-music-x-paracou-amsterdam-yellow-house-2026-10-24-CeV7o1TGiJHXNMunumKh6"
+    "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/bwired-presents-bondage-music-x-paracou-ade-2026-amsterdam-yellow-house-2026-10-24-CeV7o1TGiJHXNMunumKh6"
   },
   {
     "id": "s_63bac56051",
@@ -4812,7 +4824,18 @@
     "ticketUrl": "https://dice.fm/event/v3x5y7-fly-amsterdam-ade-day-party-24th-oct-shelter-amsterdam-tickets",
     "free": false,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/fly-amsterdam-ade-amsterdam-shelter-amsterdam-adam-toren-2026-10-24-CePLHQCAZkLYd1GqpMGmv"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/fly-ade-2026-amsterdam-shelter-amsterdam-adam-toren-2026-10-24-CePLHQCAZkLYd1GqpMGmv"
+  },
+  {
+    "id": "s_fdb2a14c5d",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "ADUNANZA IN THE CAGE",
+    "venue": "The Bulldog Palace",
+    "artists": "Alex Bohemien, Manu P, & more TBA",
+    "ticketUrl": "https://ra.co/events/2469037",
+    "free": false,
+    "source": "sheet"
   },
   {
     "id": "s_97d60c5420",
@@ -4824,7 +4847,7 @@
     "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/house-my-disco-x-fun-with-dick-jayne/2838380/",
     "free": true,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/house-my-disco-x-fun-with-dick-jayne-amsterdam-blend-xl-2026-10-24-CeUo98SJn4aTW4t7V759g"
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/house-my-disco-x-fun-with-dick-jayne-ade-2026-amsterdam-blend-xl-2026-10-24-CeUo98SJn4aTW4t7V759g"
   },
   {
     "id": "s_73e99d30c7",
@@ -4859,7 +4882,7 @@
     "ticketUrl": "https://www.amsterdam-dance-event.nl/en/program/2026/leisure-music-showcase/2838376/",
     "free": true,
     "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/leisure-music-showcase-amsterdam-bears-2026-10-24-CeUo92KxHyF82uxa1uHUY"
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/leisure-music-showcase-ade-2026-amsterdam-bears-2026-10-24-CeUo92KxHyF82uxa1uHUY"
   },
   {
     "id": "s_1bf5c44763",
@@ -4891,6 +4914,17 @@
     "venue": "TBA",
     "artists": "TBA Genre: Techno",
     "ticketUrl": "https://ra.co/events/2524505",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_2b302191a5",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "Ewan McVicar presents Club Knuckles",
+    "venue": "IJver",
+    "artists": "Ewan McVicar, Anz, Jasper James, Giulia Tess, Young Marco Genre: House",
+    "ticketUrl": "https://watt-events.nl/events/ewan-mcvicar-presents-club-knuckles/",
     "free": false,
     "source": "sheet"
   }
