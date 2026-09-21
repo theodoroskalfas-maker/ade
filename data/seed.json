@@ -996,13 +996,13 @@
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/madam-invites-kitty-amor-curates-ade-2026-amsterdam-madam-adam-toren-2026-10-23-CbrDtBPKowi71qhCLoP8m"
   },
   {
-    "id": "s_a663a70de5",
+    "id": "s_8e5f0e5c4e",
     "day": "sat",
     "dayLabel": "Sat 24",
-    "name": "Heavy House Society x Joy ADE",
+    "name": "Heavy House Society x Joy ADE (SOLD OUT)",
     "venue": "Pllek",
-    "artists": "Sidney Charles and more TBA",
-    "ticketUrl": "https://ra.co/events/2463989",
+    "artists": "Sidney Charles, Boss Priester, Cam Stockman, Dennis Quin, Robbie Doherty, Mason Cooper, Ellis garner, Hidde van Wee, Jesse Maas, Kim April",
+    "ticketUrl": "https://ra.co/events/2501967",
     "free": false,
     "source": "sheet",
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/joy-x-heavy-house-society-ade-2026-amsterdam-pllek-2026-10-24-CbsSvRYSyBhpQpyrpfHoo"
@@ -1124,6 +1124,17 @@
     "free": false,
     "source": "sheet",
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/909-x-loveland-ade-2026-amsterdam-mediahaven-2026-10-24-CbyLYiTefX5qiJ692C84h"
+  },
+  {
+    "id": "s_0e1920a783",
+    "day": "sun",
+    "dayLabel": "Sun 25",
+    "name": "HuMan Entertainment presents: ASIAN SUPPER X ADE @ SupperClub - 4th EDITION",
+    "venue": "Supper Club",
+    "artists": "Aster (KR), BLIJBEAST (NL)  Irwan (NL),  John Kho (NL), John Odin (PH), Johnny Deff (NL), Nelson Dior (NL), Nicole Chen (SG), Onderkoffer (NL). TynTyn (VN), VARO (KR) Genre: Hardhouse, Techno",
+    "ticketUrl": "https://shop.weeztix.com/75534125-5fb7-11ed-aa54-6a57c78572ab/tickets?shop_code=3xsws4t9&original_referer=https%3A%2F%2Fwww.amsterdam-dance-event.nl%2F",
+    "free": false,
+    "source": "sheet"
   },
   {
     "id": "s_2fbea4ff33",
@@ -4854,6 +4865,18 @@
     "source": "sheet"
   },
   {
+    "id": "s_c18301d95e",
+    "day": "wed",
+    "dayLabel": "Wed 21",
+    "name": "okgiorgio, Fakear + more names TBA",
+    "venue": "Benelux Bar",
+    "artists": "okgiorgio, Fakear, more TBA",
+    "ticketUrl": "https://be-ne-lux.bar/events/ade-okgiorgio-fakear-more-names-tba",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/okgiorgio-fakear-more-names-tba-ade-2026-amsterdam-benelux-bar-2026-10-21-CeuJrzfdTkXfJAH7fAoLR"
+  },
+  {
     "id": "s_ec49803cf0",
     "day": "thu",
     "dayLabel": "Thu 22",
@@ -4884,6 +4907,17 @@
     "venue": "Melkweg",
     "artists": "Boys Noize, Mechatok, Salome",
     "ticketUrl": "https://www.ticketmaster.nl/event/1595236251?brand=nl_melkweg",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_ed9da8b97c",
+    "day": "wed",
+    "dayLabel": "Wed 21",
+    "name": "FLEUR SHORE presents: Undergrowth x Pilot x Labelworx",
+    "venue": "Basement",
+    "artists": "Candidate (GB),  Cinthie (DE),  David Maters (NL),  Fleur Shore (GB),  Julian Wijn, Ryan Nicholls (GB), Voigtmann (GB) Genre: House",
+    "ticketUrl": "https://shop.weeztix.com/97756978-a619-11ed-aa54-6a57c78572ab/tickets?shop_code=nya664qy",
     "free": false,
     "source": "sheet"
   },
@@ -5122,7 +5156,7 @@
     "dayLabel": "Sat 24",
     "name": "Home Again x Sound Metaphors x Basement Love Fundraiser",
     "venue": "Tillatec",
-    "artists": "TBA",
+    "artists": "Bambounou, Black Loops, Blame Anthony, bullet tooth, Butterhands, Special Guest, Cinthie, Dan Shake, David Vunk, Doudou MD, Doppelgang, Duncan Thomas, Giammarco Orsini, LOVEFOXY, Merve, Natalie Robinson (TBC), PNNY, Simone de Kunovich, Sound Metaphors Djs, Thabo, Tiago Oudman, Tom Trago",
     "ticketUrl": "https://shop.weeztix.com/0e536f93-e4fd-11ee-a9cb-7e126431635e/tickets?event=4777d71d-a031-4d14-9795-96447a625869",
     "free": false,
     "source": "sheet",
@@ -6810,6 +6844,18 @@
     "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/brass-rave-unit-amsterdam-bimhuis-2026-10-24-CeFYUJZk2uLZoRYsG6d7Z"
   },
   {
+    "id": "s_708caaee45",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "ONDA FORTE",
+    "venue": "Studio/K",
+    "artists": "Crazy Jeff (BR) b2b Isa Castelari (BR), Pedro da Mata b2b Not Yet, Guiz b2b Karel.OTC Genre: Baile Funk, Bass",
+    "ticketUrl": null,
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/encosta-x-onda-x-studio-k-vira-ade-2026-amsterdam-studio-k-2026-10-23-CewJTeNN7by7NZKbev7dR"
+  },
+  {
     "id": "s_c9dc329d3d",
     "day": "sat",
     "dayLabel": "Sat 24",
@@ -6820,6 +6866,18 @@
     "free": false,
     "source": "sheet",
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/gia-fu-ade-2026-amsterdam-parallel-2026-10-24-Cf4oFDVE2rznQCN8hdH6L"
+  },
+  {
+    "id": "s_7c557ab0a3",
+    "day": "fri",
+    "dayLabel": "Fri 23",
+    "name": "Mahmut Orhan & Friends x Loveland",
+    "venue": "Theater",
+    "artists": "Mahmut Orhan & more",
+    "ticketUrl": "https://loveland.nl/ade/mahmut-orhan/tickets/",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/mahmut-orhan-friends-x-loveland-ade-2026-amsterdam-theater-amsterdam-2026-10-23-Ccf6QiQE3g9a3KGc1NvYh"
   },
   {
     "id": "s_978b2b2bf3",
@@ -6923,5 +6981,38 @@
     "free": false,
     "source": "sheet",
     "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/cma-fh-agency-pres-ade-closing-ade-2026-amsterdam-club-john-doe-2026-10-24-CeuGn1DFGuqKf5EX9QYrv"
+  },
+  {
+    "id": "s_24e8f70363",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "strange pavilions pres",
+    "venue": "TBA",
+    "artists": "DO/OR/DIE, GOMORRAH, IVAN, JUNE B2B ANDU Genre: Techno, Electro",
+    "ticketUrl": "https://ra.co/events/2524405",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_2b3a7a1c71",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "Tacos 'n Tunes",
+    "venue": "Madre",
+    "artists": "Subliime, Fidely-T",
+    "ticketUrl": "https://ra.co/events/2541176",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_ca29448959",
+    "day": "sat",
+    "dayLabel": "Sat 24",
+    "name": "Waterhouse x Garden Of Dreams invites Lehar",
+    "venue": "Waterhouse Studios",
+    "artists": "Lehar, Some Chemistry, After Affair, ME.N.U. Genre: Techno, Deep House",
+    "ticketUrl": "https://ra.co/events/2522140",
+    "free": false,
+    "source": "sheet"
   }
 ]
