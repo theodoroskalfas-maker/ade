@@ -983,10 +983,10 @@
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/masonics-ade-2026-amsterdam-lofi-2026-10-21-CcCbKoZv17uCXakvbFJQV"
   },
   {
-    "id": "s_155088e948",
+    "id": "s_a1acd63e08",
     "day": "thu",
     "dayLabel": "Thu 22",
-    "name": "ADE - Hot Meal",
+    "name": "ADE - Hot Meal  (SOLD OUT)",
     "venue": "Lofi",
     "artists": "Bad Boombox (BG), Dr. G (BE), Gusted, Janis Zielinski (DE), Jessie Dols (NL), lizaliza / Mija (US),  Mischluft (DE), MRD (NO), & Ollie Lishman (AU)",
     "ticketUrl": "https://shop.weeztix.com/7867aa10-86e2-4660-a0ad-e1b7c66e200b/tickets?shop_code=y5gnra4t&original_referer=https%3A%2F%2Fwww.amsterdam-dance-event.nl%2F",
@@ -4883,16 +4883,15 @@
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/interfering-grounds-x-futura-artists-ade-2026-amsterdam-garage-noord-2026-10-22-Cd9ePLZcxpbZ6EGXArZRm"
   },
   {
-    "id": "s_cc651cf35f",
+    "id": "s_f5ef6ec5c8",
     "day": "fri",
     "dayLabel": "Fri 23",
-    "name": "Cooking With Palms Trax",
+    "name": "Cooking With Palms Trax (SOLD OUT; limited door tix available)",
     "venue": "Doka",
     "artists": "Palm Trax (All night long)",
     "ticketUrl": "https://www.volkshotel.nl/en/agenda/doka/doka-studio-x-cooking-with-palms-trax-ade/",
     "free": false,
-    "source": "sheet",
-    "ticketswapUrl": "https://www.ticketswap.com/concert-tickets/palms-trax-amsterdam-doka-2026-10-23-CeFsHZrubcT1KwbkMwYnF"
+    "source": "sheet"
   },
   {
     "id": "s_9553ce30d8",
@@ -5260,15 +5259,16 @@
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/only-mistakes-kikko-invites-ade-2026-amsterdam-toekomstmuziek-2026-10-25-CeABgZy5ZYd7YpL6JVT1G"
   },
   {
-    "id": "s_29dccddd81",
+    "id": "s_f0aeb87c83",
     "day": "wed",
     "dayLabel": "Wed 21",
-    "name": "POWER AFTER (AFTERPARTY)",
-    "venue": "Supperclub",
-    "artists": "Sasha Kay, Philip Ackowsky B2B KOLE AUDRO, Bella Kri, Propper Banger Genre: Tech House, Melodic House",
-    "ticketUrl": "https://ra.co/events/2547522",
+    "name": "AFRODISE",
+    "venue": "Ijland",
+    "artists": "Aaron Sevilla, P, Rvias, Claudai Leon, Aaron REynoso, Peppe Citarella Genre: Afro House",
+    "ticketUrl": "https://app.afrodisemusic.com/tickets-store/events/43",
     "free": false,
-    "source": "sheet"
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/club-tickets/afrodise-ade-2026-amsterdam-ijland-2026-10-21-CfPopKdJFDbNo9SmvcYtX"
   },
   {
     "id": "s_839acf69c5",
@@ -5686,6 +5686,18 @@
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/tiktak-house-special-ade-2026-amsterdam-supperclub-amsterdam-2026-10-24-CePcJXysNYpntC3bFqqXP"
   },
   {
+    "id": "s_ad9a68f2ca",
+    "day": "wed",
+    "dayLabel": "Wed 21",
+    "name": "BCB Family × FH Agency × CoverMyAss",
+    "venue": "Oosterbar",
+    "artists": "Trancemaster Krause,DER TEILNEHMER aka TLNMR, POSTMANN, Daniella da Silva, Bitschu Batschu, HOTBOI2300,  Jannik van der Vegt, OPOSITION, KNTRLVRLST, Estasia, Herbrido, Moji, DeGuzman, Svetec, Golpe Genre: Trance, Techno",
+    "ticketUrl": "https://cma.stgdts.com/events/bcb-family-x-fh-agency-x-covermyass-oosterbar-and-university-20261021-y4tDr",
+    "free": false,
+    "source": "sheet",
+    "ticketswapUrl": "https://www.ticketswap.com/festival-tickets/bcb-family-fh-agency-covermyass-amsterdam-oosterbar-2026-10-21-CfdP5h9vTStnbYXjur189"
+  },
+  {
     "id": "s_8cb49fdc44",
     "day": "thu",
     "dayLabel": "Thu 22",
@@ -5718,6 +5730,17 @@
     "free": false,
     "source": "sheet",
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/patta-x-keep-hush-w-ade-2026-amsterdam-skatecafe-2026-10-24-CeCEHEP4w8ooDW7UjnEKw"
+  },
+  {
+    "id": "s_888dcd393a",
+    "day": "wed",
+    "dayLabel": "Wed 21",
+    "name": "Leyo invites NAIMA by GENNARO",
+    "venue": "Basement",
+    "artists": "Ammé, Gennar,  Leyo,  Random Memory,  Shokë,  Simon Kidzoo, Genre: House",
+    "ticketUrl": "https://shop.weeztix.com/87f7719e-b67e-11f1-8e27-d65b0659bc31/tickets?shop_code=m5qg97sm",
+    "free": false,
+    "source": "sheet"
   },
   {
     "id": "s_cbd52724a5",
@@ -7787,6 +7810,17 @@
     "source": "sheet"
   },
   {
+    "id": "s_598e6968c2",
+    "day": "thu",
+    "dayLabel": "Thu 22",
+    "name": "Clubbing Heritage",
+    "venue": "Bar Theo",
+    "artists": "Parallel 9 (STERAC), Lea Occhi, Elisa Batti, Pink Concrete, Nick Moody Genre: House, Dub Techno",
+    "ticketUrl": "https://ra.co/events/2544135",
+    "free": true,
+    "source": "sheet"
+  },
+  {
     "id": "s_40439d9495",
     "day": "fri",
     "dayLabel": "Fri 23",
@@ -7810,6 +7844,17 @@
     "ticketswapUrl": "https://www.ticketswap.com/club-tickets/gn-does-a-party-with-nyege-nyege-trackwork-amsterdam-garage-noord-2026-10-24-CfAssa5xX7WVNrv94BYHs"
   },
   {
+    "id": "s_e48be048da",
+    "day": "thu",
+    "dayLabel": "Thu 22",
+    "name": "Folder Take Over",
+    "venue": "West Indish Huis",
+    "artists": "Parallelle, Simone de Kunovich, Laura De Greef Genre: House, Funk, Soul",
+    "ticketUrl": "https://ra.co/events/2551392",
+    "free": false,
+    "source": "sheet"
+  },
+  {
     "id": "s_fc446b1de0",
     "day": "fri",
     "dayLabel": "Fri 23",
@@ -7828,6 +7873,17 @@
     "venue": "Club Piazza",
     "artists": "Bianchetti, DJ E-Funk, DJ Vivona, Hector Moralez, MR. SKIN, Robert Owens, TWOEF Genre: House Music",
     "ticketUrl": "https://ra.co/events/2527632",
+    "free": false,
+    "source": "sheet"
+  },
+  {
+    "id": "s_8bf43113e8",
+    "day": "thu",
+    "dayLabel": "Thu 22",
+    "name": "POWER AFTER at (AFTERPARTY)",
+    "venue": "Supperclub",
+    "artists": "Sasha Kay, Philip Ackowsky B2B KOLE AUDRO b2b ARMIS, Bella Kri, Proper Banger Genre: Tech House, Minimal Techno",
+    "ticketUrl": "https://ra.co/events/2547522",
     "free": false,
     "source": "sheet"
   },
