@@ -164,36 +164,39 @@
   },
   {
     "id": "tt_nocturnal_knights_sat",
-    "name": "Nocturnal Knights presents Amsterdam Trance Event",
+    "name": "Nocturnal Knights presents Amsterdam Trance Event (Extended)",
     "venue": "Panama",
     "day": "sat",
     "date": "2026-10-24",
-    "window": "14:30-21:30",
+    "window": "14:30-00:30",
     "rooms": [
       {
         "name": "Main Room",
         "slots": [
-          { "start": "14:30", "end": "15:30", "artist": "Anunnakis" },
-          { "start": "15:30", "end": "16:30", "artist": "Talla 2XLC b2b York" },
-          { "start": "16:30", "end": "17:30", "artist": "Alex M.O.R.P.H. b2b XiJaro & Pitch" },
-          { "start": "17:30", "end": "18:30", "artist": "Darren Porter b2b Bixx" },
-          { "start": "18:30", "end": "19:30", "artist": "Sean Tyas b2b Allen Watts" },
-          { "start": "19:30", "end": "20:30", "artist": "Dan Cooper b2b Brendan Bartels" },
-          { "start": "20:30", "end": "21:30", "artist": "RAM b2b Richard Durand" }
+          { "start": "14:30", "end": "15:45", "artist": "Anunnakis" },
+          { "start": "15:45", "end": "17:00", "artist": "Talla 2XLC b2b York" },
+          { "start": "17:00", "end": "18:15", "artist": "Alex M.O.R.P.H. b2b XiJaro & Pitch" },
+          { "start": "18:15", "end": "19:30", "artist": "Darren Porter b2b Bixx" },
+          { "start": "19:30", "end": "20:45", "artist": "Sean Tyas b2b Allen Watts" },
+          { "start": "20:45", "end": "22:00", "artist": "Dan Cooper b2b Brendan Bartels" },
+          { "start": "22:00", "end": "23:30", "artist": "RAM b2b Richard Durand (pres. Digital Culture)" },
+          { "start": "23:30", "end": "00:30", "artist": "Frankyeffe b2b Steve Dekay" }
         ]
       },
       {
         "name": "2nd Room",
         "slots": [
-          { "start": "15:30", "end": "16:30", "artist": "Nathia Kate b2b Bryn Whiting" },
-          { "start": "16:30", "end": "17:30", "artist": "Amos & Riot Night b2b Inoblivion" },
-          { "start": "17:30", "end": "18:30", "artist": "Rene Ablaze b2b Angelus" },
-          { "start": "18:30", "end": "19:30", "artist": "Ralphie B & Frank Waanders pres Collide 1" },
-          { "start": "19:30", "end": "20:30", "artist": "Steve Dekay b2b Mark Wilks" },
-          { "start": "20:30", "end": "21:30", "artist": "Frankyeffe b2b Luvstruck" }
+          { "start": "15:30", "end": "16:45", "artist": "Nathia Kate b2b Bryn Whiting" },
+          { "start": "16:45", "end": "18:00", "artist": "Amos & Riot Night b2b Inoblivion" },
+          { "start": "18:00", "end": "19:15", "artist": "Rene Ablaze b2b Angelus" },
+          { "start": "19:15", "end": "20:30", "artist": "Ralphie B & Frank Waanders pres Collide 1" },
+          { "start": "20:30", "end": "21:45", "artist": "Steve Dekay b2b Mark Wilks" },
+          { "start": "21:45", "end": "23:00", "artist": "Frankyeffe b2b Luvstruck" },
+          { "start": "23:00", "end": "00:00", "artist": "Nathia Kate b2b Bryn Whiting" }
         ]
       }
-    ]
+    ],
+    "note": "SOLD OUT · Extended timetable (originally 14:30-21:30, now runs till 00:30 in main room)."
   },
   {
     "id": "tt_amf_sat",
