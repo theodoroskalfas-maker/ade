@@ -103,6 +103,22 @@
     "note": "Store opens 12:00 · closes 16:00."
   },
   {
+    "id": "tt_djmag_amelie_lens_thu",
+    "name": "DJ Mag Presents Amelie Lens",
+    "venue": "Skatecafe (Gedempt Hamerkanaal 42)",
+    "day": "thu",
+    "date": "2026-10-22",
+    "window": "16:00-20:30",
+    "ticketUrl": "https://djtickets.com/event/dj-mag-presents-ade",
+    "rooms": [],
+    "lineup": [
+      "Amelie Lens (headline)",
+      "ANNĒ",
+      "DRKNGHTS"
+    ],
+    "note": "18+ only · Last entry 18:30 · Set times not announced yet."
+  },
+  {
     "id": "tt_blackhole_popup_fri",
     "name": "Blackhole Pop-Up Store (Fri)",
     "venue": "Blackhole Pop-Up Store (Herengracht 406)",
