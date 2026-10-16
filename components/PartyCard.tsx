@@ -1,6 +1,6 @@
 'use client';
 
-import type { Party } from '@/lib/types';
+import type { Party, Timetable } from '@/lib/types';
 
 type Props = {
   party: Party;
@@ -8,9 +8,21 @@ type Props = {
   isFav: boolean;
   onToggleFav: (id: string) => void;
   onFilter: (query: string) => void;
+  // When we have a matching Timetable for this party, show a "Set times" chip
+  // that jumps the whole app over to the Timetables tab on the same day.
+  timetable?: Timetable;
+  onOpenTimetable?: () => void;
 };
 
-export default function PartyCard({ party, index, isFav, onToggleFav, onFilter }: Props) {
+export default function PartyCard({
+  party,
+  index,
+  isFav,
+  onToggleFav,
+  onFilter,
+  timetable,
+  onOpenTimetable,
+}: Props) {
   const artistTokens = party.artists ? tokenizeArtists(party.artists) : [];
 
   return (
@@ -88,6 +100,16 @@ export default function PartyCard({ party, index, isFav, onToggleFav, onFilter }
       )}
 
       <div className="mt-3 flex flex-wrap gap-2">
+        {timetable && onOpenTimetable && (
+          <button
+            type="button"
+            onClick={onOpenTimetable}
+            title="Open the set-times timetable for this party"
+            className="inline-flex items-center gap-1.5 rounded-lg border border-accent2/60 bg-accent2/15 px-3 py-1.5 text-xs font-semibold text-accent2 active:scale-95"
+          >
+            <span>⏰ Set times</span>
+          </button>
+        )}
         {party.ticketUrl && (
           <a
             href={party.ticketUrl}

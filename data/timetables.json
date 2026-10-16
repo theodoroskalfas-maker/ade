@@ -1,0 +1,258 @@
+[
+  {
+    "id": "tt_chasing_dreams_wed",
+    "name": "AAA Events presents Chasing Dreams (Fundraiser)",
+    "venue": "Café De Kroon",
+    "day": "wed",
+    "date": "2026-10-21",
+    "window": "13:00-21:00",
+    "rooms": [],
+    "lineup": [
+      "XiJaro & Pitch",
+      "HEL:BRG (Ahmed Helmy & Doppenberg)",
+      "BLR",
+      "C-Systems",
+      "Somna x Rinaly",
+      "Boro",
+      "Sago"
+    ],
+    "note": "Free entry RSVP · Donations at the door · Fundraiser for the Norrie Disease Foundation"
+  },
+  {
+    "id": "tt_armin_benwal_wed",
+    "name": "Armin van Buuren & Benwal",
+    "venue": "Gashouder",
+    "day": "wed",
+    "date": "2026-10-21",
+    "window": "23:00-06:00",
+    "rooms": [
+      {
+        "name": "Main",
+        "slots": [
+          { "start": "23:00", "end": "01:00", "artist": "Idemi" },
+          { "start": "01:00", "end": "02:00", "artist": "Benwal" },
+          { "start": "02:00", "end": "03:00", "artist": "Armin van Buuren b2b Benwal" },
+          { "start": "03:00", "end": "05:00", "artist": "Armin van Buuren" },
+          { "start": "05:00", "end": "06:00", "artist": "Olive Anguz" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt_ava_thu",
+    "name": "AVA 20 Years — Andy Moor & Adam White presents Whiteroom",
+    "venue": "The Tequila Club",
+    "day": "thu",
+    "date": "2026-10-22",
+    "window": "15:00-22:00",
+    "ticketUrl": "https://tix.to/avanight",
+    "rooms": [],
+    "lineup": [
+      "Andy Moor & Adam White presents WHITEROOM (World Exclusive)",
+      "Richard Durand (In Search Of Sunrise set)",
+      "David Forbes",
+      "Adam Stark b2b MIDI KITTYY",
+      "Alan Fullmer",
+      "Dan Stone (Album Showcase)",
+      "Ferry Tayle (20 Year Anniversary)",
+      "Rinaly",
+      "Somna"
+    ],
+    "note": "Lineup A-Z; set times not announced yet."
+  },
+  {
+    "id": "tt_durand_nicolaci_thu",
+    "name": "Richard Durand B2B Giovanni Nicolaci (Blackhole Pop-Up)",
+    "venue": "Blackhole Pop-Up Store (Herengracht 406)",
+    "day": "thu",
+    "date": "2026-10-22",
+    "window": "15:00-16:00",
+    "rooms": [
+      {
+        "name": "Main",
+        "slots": [
+          { "start": "15:00", "end": "16:00", "artist": "Richard Durand B2B Giovanni Nicolaci" }
+        ]
+      }
+    ],
+    "note": "Exclusive B2B set at the Blackhole Recordings pop-up during ADE."
+  },
+  {
+    "id": "tt_luminosity_fri_day",
+    "name": "Luminosity presents This Is Trance (By Day)",
+    "venue": "Panama",
+    "day": "fri",
+    "date": "2026-10-23",
+    "window": "14:00-21:00",
+    "rooms": [
+      {
+        "name": "Main Room",
+        "slots": [
+          { "start": "14:00", "end": "15:00", "artist": "Factoria" },
+          { "start": "15:00", "end": "16:00", "artist": "Amber Revival" },
+          { "start": "16:00", "end": "17:00", "artist": "Doppenberg" },
+          { "start": "17:00", "end": "18:30", "artist": "Daxson" },
+          { "start": "18:30", "end": "20:00", "artist": "Aly & Fila" },
+          { "start": "20:00", "end": "21:00", "artist": "Asteroid" }
+        ]
+      },
+      {
+        "name": "Studio",
+        "slots": [
+          { "start": "14:00", "end": "15:15", "artist": "Peter Steele" },
+          { "start": "15:15", "end": "16:30", "artist": "Eco" },
+          { "start": "16:30", "end": "17:45", "artist": "Enigma State" },
+          { "start": "17:45", "end": "19:00", "artist": "Ferry Tayle" },
+          { "start": "19:00", "end": "20:00", "artist": "Will Rees" },
+          { "start": "20:00", "end": "21:00", "artist": "Paul Denton" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt_luminosity_fri_night",
+    "name": "Luminosity presents This Is Trance (By Night)",
+    "venue": "Panama",
+    "day": "fri",
+    "date": "2026-10-23",
+    "window": "22:00-07:00",
+    "rooms": [
+      {
+        "name": "Main Room",
+        "slots": [
+          { "start": "22:00", "end": "23:30", "artist": "Modea" },
+          { "start": "23:30", "end": "01:00", "artist": "John O'Callaghan" },
+          { "start": "01:00", "end": "02:30", "artist": "Bryan Kearney" },
+          { "start": "02:30", "end": "04:00", "artist": "Mauro Picotto" },
+          { "start": "04:00", "end": "05:30", "artist": "Parallel Worlds (Will Rees & Paul Denton)" },
+          { "start": "05:30", "end": "07:00", "artist": "Darren Porter" }
+        ]
+      },
+      {
+        "name": "Studio",
+        "slots": [
+          { "start": "23:00", "end": "00:00", "artist": "Arctic Barbers b2b Resolve" },
+          { "start": "00:00", "end": "02:00", "artist": "Enigma State" },
+          { "start": "02:00", "end": "04:00", "artist": "Giants In The Mist (Factoria & Grant Trowbridge)" },
+          { "start": "04:00", "end": "05:30", "artist": "Andrea Ribeca" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt_luminosity_sat_day",
+    "name": "Luminosity presents ADE RAVE (By Day)",
+    "venue": "Q-Factory",
+    "day": "sat",
+    "date": "2026-10-24",
+    "window": "14:00-21:00",
+    "rooms": [
+      {
+        "name": "Main Room",
+        "slots": [
+          { "start": "14:00", "end": "15:00", "artist": "Nikolauss" },
+          { "start": "15:00", "end": "16:00", "artist": "Modea" },
+          { "start": "16:00", "end": "17:00", "artist": "Joyhauser" },
+          { "start": "17:00", "end": "18:00", "artist": "Will Atkinson" },
+          { "start": "18:00", "end": "19:00", "artist": "Mha Iri" },
+          { "start": "19:00", "end": "20:00", "artist": "T78" },
+          { "start": "20:00", "end": "21:00", "artist": "Nifra" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt_nocturnal_knights_sat",
+    "name": "Nocturnal Knights presents Amsterdam Trance Event",
+    "venue": "Panama",
+    "day": "sat",
+    "date": "2026-10-24",
+    "window": "14:30-21:30",
+    "rooms": [
+      {
+        "name": "Main Room",
+        "slots": [
+          { "start": "14:30", "end": "15:30", "artist": "Anunnakis" },
+          { "start": "15:30", "end": "16:30", "artist": "Talla 2XLC b2b York" },
+          { "start": "16:30", "end": "17:30", "artist": "Alex M.O.R.P.H. b2b XiJaro & Pitch" },
+          { "start": "17:30", "end": "18:30", "artist": "Darren Porter b2b Bixx" },
+          { "start": "18:30", "end": "19:30", "artist": "Sean Tyas b2b Allen Watts" },
+          { "start": "19:30", "end": "20:30", "artist": "Dan Cooper b2b Brendan Bartels" },
+          { "start": "20:30", "end": "21:30", "artist": "RAM b2b Richard Durand" }
+        ]
+      },
+      {
+        "name": "2nd Room",
+        "slots": [
+          { "start": "15:30", "end": "16:30", "artist": "Nathia Kate b2b Bryn Whiting" },
+          { "start": "16:30", "end": "17:30", "artist": "Amos & Riot Night b2b Inoblivion" },
+          { "start": "17:30", "end": "18:30", "artist": "Rene Ablaze b2b Angelus" },
+          { "start": "18:30", "end": "19:30", "artist": "Ralphie B & Frank Waanders pres Collide 1" },
+          { "start": "19:30", "end": "20:30", "artist": "Steve Dekay b2b Mark Wilks" },
+          { "start": "20:30", "end": "21:30", "artist": "Frankyeffe b2b Luvstruck" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tt_amf_sat",
+    "name": "Amsterdam Music Festival (AMF)",
+    "venue": "Johan Cruijff Arena",
+    "day": "sat",
+    "date": "2026-10-24",
+    "window": "20:00-06:00",
+    "rooms": [
+      {
+        "name": "Main",
+        "slots": [
+          { "start": "20:00", "end": "21:00", "artist": "The Bausa (Exclusive Pre-Show Set)" },
+          { "start": "21:00", "end": "22:00", "artist": "Korolova" },
+          { "start": "22:00", "end": "23:00", "artist": "ARTBAT" },
+          { "start": "23:00", "end": "00:00", "artist": "Afrojack" },
+          { "start": "00:00", "end": "00:10", "artist": "30 Years of Dance Show Moment (presented by Canva)" },
+          { "start": "00:10", "end": "01:25", "artist": "Armin van Buuren" },
+          { "start": "01:25", "end": "03:10", "artist": "David Guetta — The Monolith (incl. David Guetta b2b Marlon Hoffstadt)" },
+          { "start": "03:10", "end": "04:10", "artist": "Marlon Hoffstadt" },
+          { "start": "04:10", "end": "05:10", "artist": "Amelie Lens" },
+          { "start": "05:10", "end": "06:00", "artist": "D-Block & S-te-Fan" }
+        ]
+      }
+    ],
+    "note": "At 03:00 the clock resets to 02:00 — AMF timetable stays on summer time."
+  },
+  {
+    "id": "tt_luminosity_sat_night",
+    "name": "Luminosity presents ADE RAVE (By Night)",
+    "venue": "Q-Factory",
+    "day": "sat",
+    "date": "2026-10-24",
+    "window": "22:00-06:00",
+    "rooms": [
+      {
+        "name": "Main Room",
+        "slots": [
+          { "start": "22:00", "end": "23:00", "artist": "Jordan Tilstone" },
+          { "start": "23:00", "end": "00:15", "artist": "Sarah de Warren" },
+          { "start": "00:15", "end": "01:30", "artist": "Billy Gillies" },
+          { "start": "01:30", "end": "02:45", "artist": "Amber Broos" },
+          { "start": "02:45", "end": "04:00", "artist": "Ben Nicky" },
+          { "start": "04:00", "end": "05:00", "artist": "Ve/Ra" },
+          { "start": "05:00", "end": "06:00", "artist": "Thick As Thieves (Mark Sherry b2b David Forbes)" }
+        ]
+      },
+      {
+        "name": "Studio",
+        "slots": [
+          { "start": "22:00", "end": "23:00", "artist": "Nikolauss" },
+          { "start": "23:00", "end": "00:00", "artist": "Dan Harrison" },
+          { "start": "00:00", "end": "01:00", "artist": "Andrea Scopsi" },
+          { "start": "01:00", "end": "02:00", "artist": "HEL:BRG" },
+          { "start": "02:00", "end": "03:00", "artist": "Jordan Tilstone" },
+          { "start": "03:00", "end": "04:00", "artist": "Alex Di Stefano" },
+          { "start": "04:00", "end": "05:00", "artist": "Indecent Noise" },
+          { "start": "05:00", "end": "06:00", "artist": "Renegade System" }
+        ]
+      }
+    ]
+  }
+]
