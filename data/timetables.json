@@ -62,21 +62,67 @@
     "note": "Lineup A-Z; set times not announced yet."
   },
   {
-    "id": "tt_durand_nicolaci_thu",
-    "name": "Richard Durand B2B Giovanni Nicolaci (Blackhole Pop-Up)",
+    "id": "tt_blackhole_popup_wed",
+    "name": "Blackhole Pop-Up Store (Wed)",
     "venue": "Blackhole Pop-Up Store (Herengracht 406)",
-    "day": "thu",
-    "date": "2026-10-22",
-    "window": "15:00-16:00",
+    "day": "wed",
+    "date": "2026-10-21",
+    "window": "12:00-19:00",
     "rooms": [
       {
-        "name": "Main",
+        "name": "Pop-Up Store",
         "slots": [
-          { "start": "15:00", "end": "16:00", "artist": "Richard Durand B2B Giovanni Nicolaci" }
+          { "start": "13:00", "end": "14:00", "artist": "Phillip Castle" },
+          { "start": "14:00", "end": "15:00", "artist": "Dennis Sheperd" },
+          { "start": "15:00", "end": "16:00", "artist": "Markus Schulz" },
+          { "start": "16:00", "end": "17:00", "artist": "Maite Dedecker" },
+          { "start": "17:00", "end": "18:00", "artist": "Avenue One" },
+          { "start": "18:00", "end": "19:00", "artist": "Avis Vox" }
         ]
       }
     ],
-    "note": "Exclusive B2B set at the Blackhole Recordings pop-up during ADE."
+    "note": "Store opens 12:00 · closes 19:00."
+  },
+  {
+    "id": "tt_blackhole_popup_thu",
+    "name": "Blackhole Pop-Up Store (Thu)",
+    "venue": "Blackhole Pop-Up Store (Herengracht 406)",
+    "day": "thu",
+    "date": "2026-10-22",
+    "window": "12:00-16:00",
+    "rooms": [
+      {
+        "name": "Pop-Up Store",
+        "slots": [
+          { "start": "13:00", "end": "14:00", "artist": "Ferry Corsten" },
+          { "start": "14:00", "end": "15:00", "artist": "Ciaran McAuley" },
+          { "start": "15:00", "end": "16:00", "artist": "Richard Durand & Giovanni Nicolaci" }
+        ]
+      }
+    ],
+    "note": "Store opens 12:00 · closes 16:00."
+  },
+  {
+    "id": "tt_blackhole_popup_fri",
+    "name": "Blackhole Pop-Up Store (Fri)",
+    "venue": "Blackhole Pop-Up Store (Herengracht 406)",
+    "day": "fri",
+    "date": "2026-10-23",
+    "window": "12:00-19:00",
+    "rooms": [
+      {
+        "name": "Pop-Up Store",
+        "slots": [
+          { "start": "13:00", "end": "14:00", "artist": "C-Systems" },
+          { "start": "14:00", "end": "15:00", "artist": "Solarstone" },
+          { "start": "15:00", "end": "16:00", "artist": "MIDI Kittyy" },
+          { "start": "16:00", "end": "17:00", "artist": "ReOrder pres. Crowd+Ctrl" },
+          { "start": "17:00", "end": "18:00", "artist": "PARAFRAME" },
+          { "start": "18:00", "end": "19:00", "artist": "Sue McLaren & Susie Ledge" }
+        ]
+      }
+    ],
+    "note": "Store opens 12:00 · closes 19:00."
   },
   {
     "id": "tt_luminosity_fri_day",
