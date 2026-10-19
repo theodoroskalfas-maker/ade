@@ -141,15 +141,27 @@ export default function PartyCard({
           <span aria-hidden>↗</span>
         </a>
         {party.venue && isMappable(party.venue) && (
-          <a
-            href={mapUrl(party.venue)}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 rounded-lg border border-line bg-panel2 px-3 py-1.5 text-xs font-semibold text-white/90 active:scale-95"
-          >
-            <span>Map</span>
-            <span aria-hidden>↗</span>
-          </a>
+          <>
+            <a
+              href={mapUrl(party.venue)}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 rounded-lg border border-line bg-panel2 px-3 py-1.5 text-xs font-semibold text-white/90 active:scale-95"
+            >
+              <span>Map</span>
+              <span aria-hidden>↗</span>
+            </a>
+            <a
+              href={mcdonaldsNearUrl(party.venue)}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Nearest McDonald's to this venue"
+              className="inline-flex items-center gap-1.5 rounded-lg border border-line bg-panel2 px-3 py-1.5 text-xs font-semibold text-white/90 active:scale-95"
+            >
+              <span>🍟 McDonald&apos;s</span>
+              <span aria-hidden>↗</span>
+            </a>
+          </>
         )}
       </div>
     </article>
@@ -167,6 +179,14 @@ function ticketswapSearchUrl(name: string): string {
 // All parties are in Amsterdam — append it to the query for a cleaner Maps hit.
 function mapUrl(venue: string): string {
   const q = encodeURIComponent(`${venue} Amsterdam`);
+  return `https://www.google.com/maps/search/?api=1&query=${q}`;
+}
+
+// Nearest McDonald's to the venue — Maps ranks search results by distance from
+// the implied query centroid, so the top hit is the closest branch. Handy at
+// 05:00 when the sets end and only takeaways are open.
+function mcdonaldsNearUrl(venue: string): string {
+  const q = encodeURIComponent(`McDonald's near ${venue} Amsterdam`);
   return `https://www.google.com/maps/search/?api=1&query=${q}`;
 }
 

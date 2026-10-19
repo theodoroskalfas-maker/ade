@@ -175,6 +175,16 @@ export default function TimetableCard({ tt, matchedParty, nowIsoLocal }: Props) 
               <span>🚆 From hotel</span>
               <span aria-hidden>↗</span>
             </a>
+            <a
+              href={mcdonaldsNearUrl(tt.venue)}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Nearest McDonald's to this venue"
+              className="inline-flex items-center gap-1.5 rounded-lg border border-line bg-panel2 px-3 py-1.5 text-xs font-semibold text-white/90 active:scale-95"
+            >
+              <span>🍟 McDonald&apos;s</span>
+              <span aria-hidden>↗</span>
+            </a>
           </div>
         </div>
       )}
@@ -223,6 +233,13 @@ function fromHotelUrl(venue: string): string {
   const origin = encodeURIComponent(HOTEL_ORIGIN);
   const dest = encodeURIComponent(`${venue} Amsterdam`);
   return `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${dest}&travelmode=transit`;
+}
+
+// Google Maps search for McDonald's "near" the venue — Maps ranks results by
+// distance from the query centroid, so the top hit is the closest branch.
+function mcdonaldsNearUrl(venue: string): string {
+  const q = encodeURIComponent(`McDonald's near ${venue} Amsterdam`);
+  return `https://www.google.com/maps/search/?api=1&query=${q}`;
 }
 
 function toMinutes(hhmm: string): number {
