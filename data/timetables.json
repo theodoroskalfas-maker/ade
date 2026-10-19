@@ -137,6 +137,21 @@
     "note": "Free Entry · 14 acts across 11 hours."
   },
   {
+    "id": "tt_armada_killacutz_thu",
+    "name": "Armada Music x Killacutz",
+    "venue": "Killacutz Record Store",
+    "day": "thu",
+    "date": "2026-10-22",
+    "window": "from 13:00",
+    "rooms": [],
+    "lineup": [
+      "Ben Gold b2b Superstrings (13:00 — Dusting Off The Vinyls Again)",
+      "Deveraux",
+      "Rozie"
+    ],
+    "note": "Vinyl-only set · Ben Gold b2b Superstrings opens at 13:00; Deveraux and Rozie slots TBA."
+  },
+  {
     "id": "tt_djmag_amelie_lens_thu",
     "name": "DJ Mag Presents Amelie Lens",
     "venue": "Skatecafe (Gedempt Hamerkanaal 42)",
