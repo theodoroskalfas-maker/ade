@@ -165,6 +165,16 @@ export default function TimetableCard({ tt, matchedParty, nowIsoLocal }: Props) 
               <span>Map</span>
               <span aria-hidden>↗</span>
             </a>
+            <a
+              href={fromHotelUrl(tt.venue)}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Live transit directions from Hyatt Regency Amsterdam"
+              className="inline-flex items-center gap-1.5 rounded-lg border border-accent2/60 bg-accent2/15 px-3 py-1.5 text-xs font-semibold text-accent2 active:scale-95"
+            >
+              <span>🚆 From hotel</span>
+              <span aria-hidden>↗</span>
+            </a>
           </div>
         </div>
       )}
@@ -202,6 +212,17 @@ function SlotRow({ slot, isNow, isNext }: { slot: TimetableSlot; isNow: boolean;
       )}
     </li>
   );
+}
+
+// Transit directions from where the user is staying this week.
+// Hardcoded for now — if someone else uses this app it's trivial to lift into
+// a localStorage-backed setting, but a single pinned origin keeps the UI quiet.
+const HOTEL_ORIGIN = 'Hyatt Regency Amsterdam, Weesperzijde 150, Amsterdam';
+
+function fromHotelUrl(venue: string): string {
+  const origin = encodeURIComponent(HOTEL_ORIGIN);
+  const dest = encodeURIComponent(`${venue} Amsterdam`);
+  return `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${dest}&travelmode=transit`;
 }
 
 function toMinutes(hhmm: string): number {
