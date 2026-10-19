@@ -47,19 +47,23 @@
     "date": "2026-10-22",
     "window": "15:00-22:00",
     "ticketUrl": "https://tix.to/avanight",
-    "rooms": [],
-    "lineup": [
-      "Andy Moor & Adam White presents WHITEROOM (World Exclusive)",
-      "Richard Durand (In Search Of Sunrise set)",
-      "David Forbes",
-      "Adam Stark b2b MIDI KITTYY",
-      "Alan Fullmer",
-      "Dan Stone (Album Showcase)",
-      "Ferry Tayle (20 Year Anniversary)",
-      "Rinaly",
-      "Somna"
+    "rooms": [
+      {
+        "name": "Main",
+        "slots": [
+          { "start": "15:00", "end": "15:40", "artist": "Alan Fullmer" },
+          { "start": "15:40", "end": "16:20", "artist": "Adam Stark b2b MIDI KITTYY" },
+          { "start": "16:20", "end": "17:00", "artist": "Somna" },
+          { "start": "17:00", "end": "17:40", "artist": "Dan Stone (Album Showcase)" },
+          { "start": "17:40", "end": "18:20", "artist": "Ferry Tayle (20 Year Anniversary)" },
+          { "start": "18:20", "end": "19:00", "artist": "Rinaly" },
+          { "start": "19:00", "end": "20:00", "artist": "Richard Durand (In Search Of Sunrise set)" },
+          { "start": "20:00", "end": "21:00", "artist": "Andy Moor & Adam White presents WHITEROOM (World Exclusive)" },
+          { "start": "21:00", "end": "22:00", "artist": "David Forbes" }
+        ]
+      }
     ],
-    "note": "Lineup A-Z; set times not announced yet."
+    "note": "Last tier on sale now · Korte Leidsedwarsstraat 28, 1017 RC Amsterdam."
   },
   {
     "id": "tt_blackhole_popup_wed",
