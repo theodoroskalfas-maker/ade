@@ -155,7 +155,7 @@ export default function PartyCard({
               href={mcdonaldsNearUrl(party.venue)}
               target="_blank"
               rel="noopener noreferrer"
-              title="Nearest McDonald's to this venue"
+              title="Walking route to the nearest McDonald's — shows distance and time"
               className="inline-flex items-center gap-1.5 rounded-lg border border-line bg-panel2 px-3 py-1.5 text-xs font-semibold text-white/90 active:scale-95"
             >
               <span>🍟 McDonald&apos;s</span>
@@ -182,12 +182,13 @@ function mapUrl(venue: string): string {
   return `https://www.google.com/maps/search/?api=1&query=${q}`;
 }
 
-// Nearest McDonald's to the venue — Maps ranks search results by distance from
-// the implied query centroid, so the top hit is the closest branch. Handy at
-// 05:00 when the sets end and only takeaways are open.
+// Walking route from the venue to the closest McDonald's. Google Maps resolves
+// a generic destination to the nearest matching place, so the result screen
+// shows an actual distance + walk time rather than a list of pins to interpret.
 function mcdonaldsNearUrl(venue: string): string {
-  const q = encodeURIComponent(`McDonald's near ${venue} Amsterdam`);
-  return `https://www.google.com/maps/search/?api=1&query=${q}`;
+  const origin = encodeURIComponent(`${venue} Amsterdam`);
+  const dest = encodeURIComponent("McDonald's");
+  return `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${dest}&travelmode=walking`;
 }
 
 // Skip pseudo-venues we don't want to send to Maps.

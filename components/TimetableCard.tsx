@@ -176,13 +176,23 @@ export default function TimetableCard({ tt, matchedParty, nowIsoLocal }: Props) 
               <span aria-hidden>↗</span>
             </a>
             <a
-              href={mcdonaldsNearUrl(tt.venue)}
+              href={routeToNearestUrl(tt.venue, "McDonald's")}
               target="_blank"
               rel="noopener noreferrer"
-              title="Nearest McDonald's to this venue"
+              title="Walking route to the nearest McDonald's — shows distance and time"
               className="inline-flex items-center gap-1.5 rounded-lg border border-line bg-panel2 px-3 py-1.5 text-xs font-semibold text-white/90 active:scale-95"
             >
               <span>🍟 McDonald&apos;s</span>
+              <span aria-hidden>↗</span>
+            </a>
+            <a
+              href={routeToNearestUrl(tt.venue, 'Starbucks')}
+              target="_blank"
+              rel="noopener noreferrer"
+              title="Walking route to the nearest Starbucks — shows distance and time"
+              className="inline-flex items-center gap-1.5 rounded-lg border border-line bg-panel2 px-3 py-1.5 text-xs font-semibold text-white/90 active:scale-95"
+            >
+              <span>☕ Starbucks</span>
               <span aria-hidden>↗</span>
             </a>
           </div>
@@ -235,11 +245,14 @@ function fromHotelUrl(venue: string): string {
   return `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${dest}&travelmode=transit`;
 }
 
-// Google Maps search for McDonald's "near" the venue — Maps ranks results by
-// distance from the query centroid, so the top hit is the closest branch.
-function mcdonaldsNearUrl(venue: string): string {
-  const q = encodeURIComponent(`McDonald's near ${venue} Amsterdam`);
-  return `https://www.google.com/maps/search/?api=1&query=${q}`;
+// Walking directions from the venue to the nearest branch of a chain.
+// Google Maps resolves a generic destination like "McDonald's" or "Starbucks"
+// to the closest matching place from the origin, and the result screen shows
+// distance + walk time up front — way more useful than a list of search hits.
+function routeToNearestUrl(venue: string, chain: string): string {
+  const origin = encodeURIComponent(`${venue} Amsterdam`);
+  const dest = encodeURIComponent(chain);
+  return `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${dest}&travelmode=walking`;
 }
 
 function toMinutes(hhmm: string): number {
