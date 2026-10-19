@@ -16,7 +16,11 @@
       "Boro",
       "Sago"
     ],
-    "note": "Free entry RSVP · Donations at the door · Fundraiser for the Norrie Disease Foundation"
+    "note": "Free entry RSVP · Donations at the door · Fundraiser for the Norrie Disease Foundation",
+    "coords": {
+      "lat": 52.3664988,
+      "lng": 4.8967404
+    }
   },
   {
     "id": "tt_armin_benwal_wed",
@@ -29,15 +33,39 @@
       {
         "name": "Main",
         "slots": [
-          { "start": "23:00", "end": "01:00", "artist": "Idemi" },
-          { "start": "01:00", "end": "02:15", "artist": "Benwal" },
-          { "start": "02:15", "end": "03:15", "artist": "Armin van Buuren b2b Benwal" },
-          { "start": "03:15", "end": "04:30", "artist": "Armin van Buuren" },
-          { "start": "04:30", "end": "06:00", "artist": "Olive Anguz" }
+          {
+            "start": "23:00",
+            "end": "01:00",
+            "artist": "Idemi"
+          },
+          {
+            "start": "01:00",
+            "end": "02:15",
+            "artist": "Benwal"
+          },
+          {
+            "start": "02:15",
+            "end": "03:15",
+            "artist": "Armin van Buuren b2b Benwal"
+          },
+          {
+            "start": "03:15",
+            "end": "04:30",
+            "artist": "Armin van Buuren"
+          },
+          {
+            "start": "04:30",
+            "end": "06:00",
+            "artist": "Olive Anguz"
+          }
         ]
       }
     ],
-    "note": "18+ event — bring a valid physical ID."
+    "note": "18+ event — bring a valid physical ID.",
+    "coords": {
+      "lat": 52.386808,
+      "lng": 4.8689483
+    }
   },
   {
     "id": "tt_ava_thu",
@@ -51,19 +79,59 @@
       {
         "name": "Main",
         "slots": [
-          { "start": "15:00", "end": "15:40", "artist": "Alan Fullmer" },
-          { "start": "15:40", "end": "16:20", "artist": "Adam Stark b2b MIDI KITTYY" },
-          { "start": "16:20", "end": "17:00", "artist": "Somna" },
-          { "start": "17:00", "end": "17:40", "artist": "Dan Stone (Album Showcase)" },
-          { "start": "17:40", "end": "18:20", "artist": "Ferry Tayle (20 Year Anniversary)" },
-          { "start": "18:20", "end": "19:00", "artist": "Rinaly" },
-          { "start": "19:00", "end": "20:00", "artist": "Richard Durand (In Search Of Sunrise set)" },
-          { "start": "20:00", "end": "21:00", "artist": "Andy Moor & Adam White presents WHITEROOM (World Exclusive)" },
-          { "start": "21:00", "end": "22:00", "artist": "David Forbes" }
+          {
+            "start": "15:00",
+            "end": "15:40",
+            "artist": "Alan Fullmer"
+          },
+          {
+            "start": "15:40",
+            "end": "16:20",
+            "artist": "Adam Stark b2b MIDI KITTYY"
+          },
+          {
+            "start": "16:20",
+            "end": "17:00",
+            "artist": "Somna"
+          },
+          {
+            "start": "17:00",
+            "end": "17:40",
+            "artist": "Dan Stone (Album Showcase)"
+          },
+          {
+            "start": "17:40",
+            "end": "18:20",
+            "artist": "Ferry Tayle (20 Year Anniversary)"
+          },
+          {
+            "start": "18:20",
+            "end": "19:00",
+            "artist": "Rinaly"
+          },
+          {
+            "start": "19:00",
+            "end": "20:00",
+            "artist": "Richard Durand (In Search Of Sunrise set)"
+          },
+          {
+            "start": "20:00",
+            "end": "21:00",
+            "artist": "Andy Moor & Adam White presents WHITEROOM (World Exclusive)"
+          },
+          {
+            "start": "21:00",
+            "end": "22:00",
+            "artist": "David Forbes"
+          }
         ]
       }
     ],
-    "note": "Last tier on sale now · Korte Leidsedwarsstraat 28, 1017 RC Amsterdam."
+    "note": "Last tier on sale now · Korte Leidsedwarsstraat 28, 1017 RC Amsterdam.",
+    "coords": {
+      "lat": 52.3633756,
+      "lng": 4.8845454
+    }
   },
   {
     "id": "tt_blackhole_popup_wed",
@@ -76,16 +144,44 @@
       {
         "name": "Pop-Up Store",
         "slots": [
-          { "start": "13:00", "end": "14:00", "artist": "Phillip Castle" },
-          { "start": "14:00", "end": "15:00", "artist": "Dennis Sheperd" },
-          { "start": "15:00", "end": "16:00", "artist": "Markus Schulz" },
-          { "start": "16:00", "end": "17:00", "artist": "Maite Dedecker" },
-          { "start": "17:00", "end": "18:00", "artist": "Avenue One" },
-          { "start": "18:00", "end": "19:00", "artist": "Avis Vox" }
+          {
+            "start": "13:00",
+            "end": "14:00",
+            "artist": "Phillip Castle"
+          },
+          {
+            "start": "14:00",
+            "end": "15:00",
+            "artist": "Dennis Sheperd"
+          },
+          {
+            "start": "15:00",
+            "end": "16:00",
+            "artist": "Markus Schulz"
+          },
+          {
+            "start": "16:00",
+            "end": "17:00",
+            "artist": "Maite Dedecker"
+          },
+          {
+            "start": "17:00",
+            "end": "18:00",
+            "artist": "Avenue One"
+          },
+          {
+            "start": "18:00",
+            "end": "19:00",
+            "artist": "Avis Vox"
+          }
         ]
       }
     ],
-    "note": "Store opens 12:00 · closes 19:00."
+    "note": "Store opens 12:00 · closes 19:00.",
+    "coords": {
+      "lat": 52.3671796,
+      "lng": 4.8869728
+    }
   },
   {
     "id": "tt_blackhole_popup_thu",
@@ -98,13 +194,29 @@
       {
         "name": "Pop-Up Store",
         "slots": [
-          { "start": "13:00", "end": "14:00", "artist": "Ferry Corsten" },
-          { "start": "14:00", "end": "15:00", "artist": "Ciaran McAuley" },
-          { "start": "15:00", "end": "16:00", "artist": "Richard Durand & Giovanni Nicolaci" }
+          {
+            "start": "13:00",
+            "end": "14:00",
+            "artist": "Ferry Corsten"
+          },
+          {
+            "start": "14:00",
+            "end": "15:00",
+            "artist": "Ciaran McAuley"
+          },
+          {
+            "start": "15:00",
+            "end": "16:00",
+            "artist": "Richard Durand & Giovanni Nicolaci"
+          }
         ]
       }
     ],
-    "note": "Store opens 12:00 · closes 16:00."
+    "note": "Store opens 12:00 · closes 16:00.",
+    "coords": {
+      "lat": 52.3671796,
+      "lng": 4.8869728
+    }
   },
   {
     "id": "tt_mystra_eighty_four_fri",
@@ -117,24 +229,84 @@
       {
         "name": "Main",
         "slots": [
-          { "start": "13:00", "end": "13:45", "artist": "DJ Boro" },
-          { "start": "13:45", "end": "14:30", "artist": "Hoddi" },
-          { "start": "14:30", "end": "15:15", "artist": "Moskin" },
-          { "start": "15:15", "end": "16:00", "artist": "DC Buddha" },
-          { "start": "16:00", "end": "16:45", "artist": "4YG" },
-          { "start": "16:45", "end": "17:30", "artist": "Mark Roma" },
-          { "start": "17:30", "end": "18:15", "artist": "Giovanni Nicolaci" },
-          { "start": "18:15", "end": "19:15", "artist": "Richard Durand" },
-          { "start": "19:15", "end": "20:00", "artist": "Fernweh" },
-          { "start": "20:00", "end": "21:00", "artist": "Alex M.O.R.P.H." },
-          { "start": "21:00", "end": "21:45", "artist": "Rene Ablaze" },
-          { "start": "21:45", "end": "22:30", "artist": "P.O.D." },
-          { "start": "22:30", "end": "23:15", "artist": "Maryn" },
-          { "start": "23:15", "end": "00:00", "artist": "Vanessa Sa x BKX" }
+          {
+            "start": "13:00",
+            "end": "13:45",
+            "artist": "DJ Boro"
+          },
+          {
+            "start": "13:45",
+            "end": "14:30",
+            "artist": "Hoddi"
+          },
+          {
+            "start": "14:30",
+            "end": "15:15",
+            "artist": "Moskin"
+          },
+          {
+            "start": "15:15",
+            "end": "16:00",
+            "artist": "DC Buddha"
+          },
+          {
+            "start": "16:00",
+            "end": "16:45",
+            "artist": "4YG"
+          },
+          {
+            "start": "16:45",
+            "end": "17:30",
+            "artist": "Mark Roma"
+          },
+          {
+            "start": "17:30",
+            "end": "18:15",
+            "artist": "Giovanni Nicolaci"
+          },
+          {
+            "start": "18:15",
+            "end": "19:15",
+            "artist": "Richard Durand"
+          },
+          {
+            "start": "19:15",
+            "end": "20:00",
+            "artist": "Fernweh"
+          },
+          {
+            "start": "20:00",
+            "end": "21:00",
+            "artist": "Alex M.O.R.P.H."
+          },
+          {
+            "start": "21:00",
+            "end": "21:45",
+            "artist": "Rene Ablaze"
+          },
+          {
+            "start": "21:45",
+            "end": "22:30",
+            "artist": "P.O.D."
+          },
+          {
+            "start": "22:30",
+            "end": "23:15",
+            "artist": "Maryn"
+          },
+          {
+            "start": "23:15",
+            "end": "00:00",
+            "artist": "Vanessa Sa x BKX"
+          }
         ]
       }
     ],
-    "note": "Free Entry · 14 acts across 11 hours."
+    "note": "Free Entry · 14 acts across 11 hours.",
+    "coords": {
+      "lat": 52.3563155,
+      "lng": 4.9295542
+    }
   },
   {
     "id": "tt_armada_killacutz_thu",
@@ -149,7 +321,11 @@
       "Deveraux",
       "Rozie"
     ],
-    "note": "Vinyl-only set · Ben Gold b2b Superstrings opens at 13:00; Deveraux and Rozie slots TBA."
+    "note": "Vinyl-only set · Ben Gold b2b Superstrings opens at 13:00; Deveraux and Rozie slots TBA.",
+    "coords": {
+      "lat": 52.3752671,
+      "lng": 4.8932859
+    }
   },
   {
     "id": "tt_djmag_amelie_lens_thu",
@@ -165,7 +341,11 @@
       "ANNĒ",
       "DRKNGHTS"
     ],
-    "note": "18+ only · Last entry 18:30 · Set times not announced yet."
+    "note": "18+ only · Last entry 18:30 · Set times not announced yet.",
+    "coords": {
+      "lat": 52.3854206,
+      "lng": 4.9255852
+    }
   },
   {
     "id": "tt_blackhole_popup_fri",
@@ -178,16 +358,44 @@
       {
         "name": "Pop-Up Store",
         "slots": [
-          { "start": "13:00", "end": "14:00", "artist": "C-Systems" },
-          { "start": "14:00", "end": "15:00", "artist": "Solarstone" },
-          { "start": "15:00", "end": "16:00", "artist": "MIDI Kittyy" },
-          { "start": "16:00", "end": "17:00", "artist": "ReOrder pres. Crowd+Ctrl" },
-          { "start": "17:00", "end": "18:00", "artist": "PARAFRAME" },
-          { "start": "18:00", "end": "19:00", "artist": "Sue McLaren & Susie Ledge" }
+          {
+            "start": "13:00",
+            "end": "14:00",
+            "artist": "C-Systems"
+          },
+          {
+            "start": "14:00",
+            "end": "15:00",
+            "artist": "Solarstone"
+          },
+          {
+            "start": "15:00",
+            "end": "16:00",
+            "artist": "MIDI Kittyy"
+          },
+          {
+            "start": "16:00",
+            "end": "17:00",
+            "artist": "ReOrder pres. Crowd+Ctrl"
+          },
+          {
+            "start": "17:00",
+            "end": "18:00",
+            "artist": "PARAFRAME"
+          },
+          {
+            "start": "18:00",
+            "end": "19:00",
+            "artist": "Sue McLaren & Susie Ledge"
+          }
         ]
       }
     ],
-    "note": "Store opens 12:00 · closes 19:00."
+    "note": "Store opens 12:00 · closes 19:00.",
+    "coords": {
+      "lat": 52.3671796,
+      "lng": 4.8869728
+    }
   },
   {
     "id": "tt_luminosity_fri_day",
@@ -200,26 +408,78 @@
       {
         "name": "Main Room",
         "slots": [
-          { "start": "14:00", "end": "15:00", "artist": "Factoria" },
-          { "start": "15:00", "end": "16:00", "artist": "Amber Revival" },
-          { "start": "16:00", "end": "17:00", "artist": "Doppenberg" },
-          { "start": "17:00", "end": "18:30", "artist": "Daxson" },
-          { "start": "18:30", "end": "20:00", "artist": "Aly & Fila" },
-          { "start": "20:00", "end": "21:00", "artist": "Asteroid" }
+          {
+            "start": "14:00",
+            "end": "15:00",
+            "artist": "Factoria"
+          },
+          {
+            "start": "15:00",
+            "end": "16:00",
+            "artist": "Amber Revival"
+          },
+          {
+            "start": "16:00",
+            "end": "17:00",
+            "artist": "Doppenberg"
+          },
+          {
+            "start": "17:00",
+            "end": "18:30",
+            "artist": "Daxson"
+          },
+          {
+            "start": "18:30",
+            "end": "20:00",
+            "artist": "Aly & Fila"
+          },
+          {
+            "start": "20:00",
+            "end": "21:00",
+            "artist": "Asteroid"
+          }
         ]
       },
       {
         "name": "Studio",
         "slots": [
-          { "start": "14:00", "end": "15:15", "artist": "Peter Steele" },
-          { "start": "15:15", "end": "16:30", "artist": "Eco" },
-          { "start": "16:30", "end": "17:45", "artist": "Enigma State" },
-          { "start": "17:45", "end": "19:00", "artist": "Ferry Tayle" },
-          { "start": "19:00", "end": "20:00", "artist": "Will Rees" },
-          { "start": "20:00", "end": "21:00", "artist": "Paul Denton" }
+          {
+            "start": "14:00",
+            "end": "15:15",
+            "artist": "Peter Steele"
+          },
+          {
+            "start": "15:15",
+            "end": "16:30",
+            "artist": "Eco"
+          },
+          {
+            "start": "16:30",
+            "end": "17:45",
+            "artist": "Enigma State"
+          },
+          {
+            "start": "17:45",
+            "end": "19:00",
+            "artist": "Ferry Tayle"
+          },
+          {
+            "start": "19:00",
+            "end": "20:00",
+            "artist": "Will Rees"
+          },
+          {
+            "start": "20:00",
+            "end": "21:00",
+            "artist": "Paul Denton"
+          }
         ]
       }
-    ]
+    ],
+    "coords": {
+      "lat": 52.374949,
+      "lng": 4.9303305
+    }
   },
   {
     "id": "tt_luminosity_fri_night",
@@ -232,24 +492,68 @@
       {
         "name": "Main Room",
         "slots": [
-          { "start": "22:00", "end": "23:30", "artist": "Modea" },
-          { "start": "23:30", "end": "01:00", "artist": "John O'Callaghan" },
-          { "start": "01:00", "end": "02:30", "artist": "Bryan Kearney" },
-          { "start": "02:30", "end": "04:00", "artist": "Mauro Picotto" },
-          { "start": "04:00", "end": "05:30", "artist": "Parallel Worlds (Will Rees & Paul Denton)" },
-          { "start": "05:30", "end": "07:00", "artist": "Darren Porter" }
+          {
+            "start": "22:00",
+            "end": "23:30",
+            "artist": "Modea"
+          },
+          {
+            "start": "23:30",
+            "end": "01:00",
+            "artist": "John O'Callaghan"
+          },
+          {
+            "start": "01:00",
+            "end": "02:30",
+            "artist": "Bryan Kearney"
+          },
+          {
+            "start": "02:30",
+            "end": "04:00",
+            "artist": "Mauro Picotto"
+          },
+          {
+            "start": "04:00",
+            "end": "05:30",
+            "artist": "Parallel Worlds (Will Rees & Paul Denton)"
+          },
+          {
+            "start": "05:30",
+            "end": "07:00",
+            "artist": "Darren Porter"
+          }
         ]
       },
       {
         "name": "Studio",
         "slots": [
-          { "start": "23:00", "end": "00:00", "artist": "Arctic Barbers b2b Resolve" },
-          { "start": "00:00", "end": "02:00", "artist": "Enigma State" },
-          { "start": "02:00", "end": "04:00", "artist": "Giants In The Mist (Factoria & Grant Trowbridge)" },
-          { "start": "04:00", "end": "05:30", "artist": "Andrea Ribeca" }
+          {
+            "start": "23:00",
+            "end": "00:00",
+            "artist": "Arctic Barbers b2b Resolve"
+          },
+          {
+            "start": "00:00",
+            "end": "02:00",
+            "artist": "Enigma State"
+          },
+          {
+            "start": "02:00",
+            "end": "04:00",
+            "artist": "Giants In The Mist (Factoria & Grant Trowbridge)"
+          },
+          {
+            "start": "04:00",
+            "end": "05:30",
+            "artist": "Andrea Ribeca"
+          }
         ]
       }
-    ]
+    ],
+    "coords": {
+      "lat": 52.374949,
+      "lng": 4.9303305
+    }
   },
   {
     "id": "tt_luminosity_sat_day",
@@ -262,16 +566,48 @@
       {
         "name": "Main Room",
         "slots": [
-          { "start": "14:00", "end": "15:00", "artist": "Nikolauss" },
-          { "start": "15:00", "end": "16:00", "artist": "Modea" },
-          { "start": "16:00", "end": "17:00", "artist": "Joyhauser" },
-          { "start": "17:00", "end": "18:00", "artist": "Will Atkinson" },
-          { "start": "18:00", "end": "19:00", "artist": "Mha Iri" },
-          { "start": "19:00", "end": "20:00", "artist": "T78" },
-          { "start": "20:00", "end": "21:00", "artist": "Nifra" }
+          {
+            "start": "14:00",
+            "end": "15:00",
+            "artist": "Nikolauss"
+          },
+          {
+            "start": "15:00",
+            "end": "16:00",
+            "artist": "Modea"
+          },
+          {
+            "start": "16:00",
+            "end": "17:00",
+            "artist": "Joyhauser"
+          },
+          {
+            "start": "17:00",
+            "end": "18:00",
+            "artist": "Will Atkinson"
+          },
+          {
+            "start": "18:00",
+            "end": "19:00",
+            "artist": "Mha Iri"
+          },
+          {
+            "start": "19:00",
+            "end": "20:00",
+            "artist": "T78"
+          },
+          {
+            "start": "20:00",
+            "end": "21:00",
+            "artist": "Nifra"
+          }
         ]
       }
-    ]
+    ],
+    "coords": {
+      "lat": 52.3576656,
+      "lng": 4.9304987
+    }
   },
   {
     "id": "tt_nocturnal_knights_sat",
@@ -284,30 +620,94 @@
       {
         "name": "Main Room",
         "slots": [
-          { "start": "14:30", "end": "15:45", "artist": "Anunnakis" },
-          { "start": "15:45", "end": "17:00", "artist": "Talla 2XLC b2b York" },
-          { "start": "17:00", "end": "18:15", "artist": "Alex M.O.R.P.H. b2b XiJaro & Pitch" },
-          { "start": "18:15", "end": "19:30", "artist": "Darren Porter b2b Bixx" },
-          { "start": "19:30", "end": "20:45", "artist": "Sean Tyas b2b Allen Watts" },
-          { "start": "20:45", "end": "22:00", "artist": "Dan Cooper b2b Brendan Bartels" },
-          { "start": "22:00", "end": "23:30", "artist": "RAM b2b Richard Durand (pres. Digital Culture)" },
-          { "start": "23:30", "end": "00:30", "artist": "Frankyeffe b2b Steve Dekay" }
+          {
+            "start": "14:30",
+            "end": "15:45",
+            "artist": "Anunnakis"
+          },
+          {
+            "start": "15:45",
+            "end": "17:00",
+            "artist": "Talla 2XLC b2b York"
+          },
+          {
+            "start": "17:00",
+            "end": "18:15",
+            "artist": "Alex M.O.R.P.H. b2b XiJaro & Pitch"
+          },
+          {
+            "start": "18:15",
+            "end": "19:30",
+            "artist": "Darren Porter b2b Bixx"
+          },
+          {
+            "start": "19:30",
+            "end": "20:45",
+            "artist": "Sean Tyas b2b Allen Watts"
+          },
+          {
+            "start": "20:45",
+            "end": "22:00",
+            "artist": "Dan Cooper b2b Brendan Bartels"
+          },
+          {
+            "start": "22:00",
+            "end": "23:30",
+            "artist": "RAM b2b Richard Durand (pres. Digital Culture)"
+          },
+          {
+            "start": "23:30",
+            "end": "00:30",
+            "artist": "Frankyeffe b2b Steve Dekay"
+          }
         ]
       },
       {
         "name": "2nd Room",
         "slots": [
-          { "start": "15:30", "end": "16:45", "artist": "Nathia Kate b2b Bryn Whiting" },
-          { "start": "16:45", "end": "18:00", "artist": "Amos & Riot Night b2b Inoblivion" },
-          { "start": "18:00", "end": "19:15", "artist": "Rene Ablaze b2b Angelus" },
-          { "start": "19:15", "end": "20:30", "artist": "Ralphie B & Frank Waanders pres Collide 1" },
-          { "start": "20:30", "end": "21:45", "artist": "Steve Dekay b2b Mark Wilks" },
-          { "start": "21:45", "end": "23:00", "artist": "Frankyeffe b2b Luvstruck" },
-          { "start": "23:00", "end": "00:00", "artist": "Nathia Kate b2b Bryn Whiting" }
+          {
+            "start": "15:30",
+            "end": "16:45",
+            "artist": "Nathia Kate b2b Bryn Whiting"
+          },
+          {
+            "start": "16:45",
+            "end": "18:00",
+            "artist": "Amos & Riot Night b2b Inoblivion"
+          },
+          {
+            "start": "18:00",
+            "end": "19:15",
+            "artist": "Rene Ablaze b2b Angelus"
+          },
+          {
+            "start": "19:15",
+            "end": "20:30",
+            "artist": "Ralphie B & Frank Waanders pres Collide 1"
+          },
+          {
+            "start": "20:30",
+            "end": "21:45",
+            "artist": "Steve Dekay b2b Mark Wilks"
+          },
+          {
+            "start": "21:45",
+            "end": "23:00",
+            "artist": "Frankyeffe b2b Luvstruck"
+          },
+          {
+            "start": "23:00",
+            "end": "00:00",
+            "artist": "Nathia Kate b2b Bryn Whiting"
+          }
         ]
       }
     ],
-    "note": "SOLD OUT · Extended timetable (originally 14:30-21:30, now runs till 00:30 in main room)."
+    "note": "SOLD OUT · Extended timetable (originally 14:30-21:30, now runs till 00:30 in main room).",
+    "coords": {
+      "lat": 52.374949,
+      "lng": 4.9303305
+    }
   },
   {
     "id": "tt_amf_sat",
@@ -320,20 +720,64 @@
       {
         "name": "Main",
         "slots": [
-          { "start": "20:00", "end": "21:00", "artist": "The Bausa (Exclusive Pre-Show Set)" },
-          { "start": "21:00", "end": "22:00", "artist": "Korolova" },
-          { "start": "22:00", "end": "23:00", "artist": "ARTBAT" },
-          { "start": "23:00", "end": "00:00", "artist": "Afrojack" },
-          { "start": "00:00", "end": "00:10", "artist": "30 Years of Dance Show Moment (presented by Canva)" },
-          { "start": "00:10", "end": "01:25", "artist": "Armin van Buuren" },
-          { "start": "01:25", "end": "03:10", "artist": "David Guetta — The Monolith (incl. David Guetta b2b Marlon Hoffstadt)" },
-          { "start": "03:10", "end": "04:10", "artist": "Marlon Hoffstadt" },
-          { "start": "04:10", "end": "05:10", "artist": "Amelie Lens" },
-          { "start": "05:10", "end": "06:00", "artist": "D-Block & S-te-Fan" }
+          {
+            "start": "20:00",
+            "end": "21:00",
+            "artist": "The Bausa (Exclusive Pre-Show Set)"
+          },
+          {
+            "start": "21:00",
+            "end": "22:00",
+            "artist": "Korolova"
+          },
+          {
+            "start": "22:00",
+            "end": "23:00",
+            "artist": "ARTBAT"
+          },
+          {
+            "start": "23:00",
+            "end": "00:00",
+            "artist": "Afrojack"
+          },
+          {
+            "start": "00:00",
+            "end": "00:10",
+            "artist": "30 Years of Dance Show Moment (presented by Canva)"
+          },
+          {
+            "start": "00:10",
+            "end": "01:25",
+            "artist": "Armin van Buuren"
+          },
+          {
+            "start": "01:25",
+            "end": "03:10",
+            "artist": "David Guetta — The Monolith (incl. David Guetta b2b Marlon Hoffstadt)"
+          },
+          {
+            "start": "03:10",
+            "end": "04:10",
+            "artist": "Marlon Hoffstadt"
+          },
+          {
+            "start": "04:10",
+            "end": "05:10",
+            "artist": "Amelie Lens"
+          },
+          {
+            "start": "05:10",
+            "end": "06:00",
+            "artist": "D-Block & S-te-Fan"
+          }
         ]
       }
     ],
-    "note": "At 03:00 the clock resets to 02:00 — AMF timetable stays on summer time."
+    "note": "At 03:00 the clock resets to 02:00 — AMF timetable stays on summer time.",
+    "coords": {
+      "lat": 52.314353,
+      "lng": 4.9428431
+    }
   },
   {
     "id": "tt_luminosity_sat_night",
@@ -346,28 +790,92 @@
       {
         "name": "Main Room",
         "slots": [
-          { "start": "22:00", "end": "23:00", "artist": "Jordan Tilstone" },
-          { "start": "23:00", "end": "00:15", "artist": "Sarah de Warren" },
-          { "start": "00:15", "end": "01:30", "artist": "Billy Gillies" },
-          { "start": "01:30", "end": "02:45", "artist": "Amber Broos" },
-          { "start": "02:45", "end": "04:00", "artist": "Ben Nicky" },
-          { "start": "04:00", "end": "05:00", "artist": "Ve/Ra" },
-          { "start": "05:00", "end": "06:00", "artist": "Thick As Thieves (Mark Sherry b2b David Forbes)" }
+          {
+            "start": "22:00",
+            "end": "23:00",
+            "artist": "Jordan Tilstone"
+          },
+          {
+            "start": "23:00",
+            "end": "00:15",
+            "artist": "Sarah de Warren"
+          },
+          {
+            "start": "00:15",
+            "end": "01:30",
+            "artist": "Billy Gillies"
+          },
+          {
+            "start": "01:30",
+            "end": "02:45",
+            "artist": "Amber Broos"
+          },
+          {
+            "start": "02:45",
+            "end": "04:00",
+            "artist": "Ben Nicky"
+          },
+          {
+            "start": "04:00",
+            "end": "05:00",
+            "artist": "Ve/Ra"
+          },
+          {
+            "start": "05:00",
+            "end": "06:00",
+            "artist": "Thick As Thieves (Mark Sherry b2b David Forbes)"
+          }
         ]
       },
       {
         "name": "Studio",
         "slots": [
-          { "start": "22:00", "end": "23:00", "artist": "Nikolauss" },
-          { "start": "23:00", "end": "00:00", "artist": "Dan Harrison" },
-          { "start": "00:00", "end": "01:00", "artist": "Andrea Scopsi" },
-          { "start": "01:00", "end": "02:00", "artist": "HEL:BRG" },
-          { "start": "02:00", "end": "03:00", "artist": "Jordan Tilstone" },
-          { "start": "03:00", "end": "04:00", "artist": "Alex Di Stefano" },
-          { "start": "04:00", "end": "05:00", "artist": "Indecent Noise" },
-          { "start": "05:00", "end": "06:00", "artist": "Renegade System" }
+          {
+            "start": "22:00",
+            "end": "23:00",
+            "artist": "Nikolauss"
+          },
+          {
+            "start": "23:00",
+            "end": "00:00",
+            "artist": "Dan Harrison"
+          },
+          {
+            "start": "00:00",
+            "end": "01:00",
+            "artist": "Andrea Scopsi"
+          },
+          {
+            "start": "01:00",
+            "end": "02:00",
+            "artist": "HEL:BRG"
+          },
+          {
+            "start": "02:00",
+            "end": "03:00",
+            "artist": "Jordan Tilstone"
+          },
+          {
+            "start": "03:00",
+            "end": "04:00",
+            "artist": "Alex Di Stefano"
+          },
+          {
+            "start": "04:00",
+            "end": "05:00",
+            "artist": "Indecent Noise"
+          },
+          {
+            "start": "05:00",
+            "end": "06:00",
+            "artist": "Renegade System"
+          }
         ]
       }
-    ]
+    ],
+    "coords": {
+      "lat": 52.3576656,
+      "lng": 4.9304987
+    }
   }
 ]

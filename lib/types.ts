@@ -51,5 +51,9 @@ export type Timetable = {
   lineup?: string[]; // fallback when the organiser only published an unordered A-Z list
   ticketUrl?: string;
   note?: string;
+  // Geocoded venue coords (via scripts/geocode-venues.mjs). Used to anchor
+  // "nearest Starbucks / McDonald's" Google Maps searches on the venue
+  // instead of the user's IP location.
+  coords?: { lat: number; lng: number };
 };
 
