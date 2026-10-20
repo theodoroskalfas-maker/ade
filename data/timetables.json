@@ -332,6 +332,26 @@
     }
   },
   {
+    "id": "tt_richie_hawtin_leidseplein_thu",
+    "name": "Richie Hawtin — Leidse Stage Pop-Up",
+    "venue": "Leidse Stage, Leidseplein",
+    "day": "thu",
+    "date": "2026-10-22",
+    "window": "15:00-20:00",
+    "rooms": [],
+    "lineup": [
+      "Richie Hawtin",
+      "Ogazón",
+      "Luigi Madonna",
+      "Kristin Velvet"
+    ],
+    "note": "Free outdoor pop-up · Open to all · Rain or shine · Set times TBA.",
+    "coords": {
+      "lat": 52.3639,
+      "lng": 4.8826
+    }
+  },
+  {
     "id": "tt_djmag_amelie_lens_thu",
     "name": "DJ Mag Presents Amelie Lens",
     "venue": "Skatecafe (Gedempt Hamerkanaal 42)",
